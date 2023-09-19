@@ -1,200 +1,200 @@
-git@github.com:rom1v/sndcpy.git sndcpy
-./sndcpy/release.sh
-git@github.com:daimajia/AnimationEasingFunctions.git AnimationEasingFunctions
+git@github.com:google/cameraview.git cameraview
 
-git@github.com:googlesamples/easypermissions.git easypermissions
+git@github.com:yusugomori/DeepLearning.git DeepLearning
 
-git@github.com:NanoHttpd/nanohttpd.git nanohttpd
+git@github.com:facebookarchive/network-connection-class.git network-connection-class
 
-git@github.com:didi/tinyid.git tinyid
-./tinyid/tinyid-server/build.sh
-git@github.com:bluelinelabs/LoganSquare.git LoganSquare
-git@github.com:JulienGenoud/android-percent-support-lib-sample.git android-percent-support-lib-sample
+git@github.com:jgilfelt/SystemBarTint.git SystemBarTint
 
-git@github.com:googlearchive/android-Camera2Basic.git android-Camera2Basic
+git@github.com:CoderLeixiaoshuai/java-eight-part.git java-eight-part
 
+git@github.com:markzhai/AndroidPerformanceMonitor.git AndroidPerformanceMonitor
 
-git@github.com:emilsjolander/StickyListHeaders.git StickyListHeaders
-git@github.com:Genymobile/gnirehtet.git gnirehtet
+git@github.com:youtube/api-samples.git api-samples
 
+git@github.com:mrniko/netty-socketio.git netty-socketio
 
-git@github.com:Evernote/android-job.git android-job
+git@github.com:square/sqlbrite.git sqlbrite
+./sqlbrite/.buildscript/deploy_snapshot.sh
+git@github.com:yasserg/crawler4j.git crawler4j
+./crawler4j/config/intellij/reset.sh
+git@github.com:koush/AndroidAsync.git AndroidAsync
 
-git@github.com:nico2sh/materialish-progress.git materialish-progress
-git@github.com:vdurmont/emoji-java.git emoji-java
-git@github.com:amulyakhare/TextDrawable.git TextDrawable
+git@github.com:lightbend/config.git config
 
+git@github.com:JakeWharton/ViewPagerIndicator.git ViewPagerIndicator
 
+git@github.com:hustcc/JS-Sorting-Algorithm.git JS-Sorting-Algorithm
 
-git@github.com:bilibili/DanmakuFlameMaster.git DanmakuFlameMaster
+git@github.com:wasabeef/richeditor-android.git richeditor-android
 
-git@github.com:Curzibn/Luban.git Luban
-git@github.com:lzyzsd/CircleProgress.git CircleProgress
+git@github.com:ChadCSong/ShineButton.git ShineButton
 
+git@github.com:wasabeef/Blurry.git Blurry
 
-git@github.com:harjot-oberai/MaterialShadows.git MaterialShadows
-git@github.com:google/google-authenticator.git google-authenticator
+git@github.com:ivacf/archi.git archi
 
+git@github.com:yangfuhai/afinal.git afinal
 
-git@github.com:ZhongFuCheng3y/austin.git austin
-./austin/doc/docker/rabbitmq/rabbitmq-cluster/init-rabbitmq.sh ./austin/stream-start.sh
-git@github.com:bingoogolapple/BGABadgeView-Android.git BGABadgeView-Android
+git@github.com:nic-delhi/AarogyaSetu_Android.git AarogyaSetu_Android
 
-git@github.com:objectbox/objectbox-java.git objectbox-java
-./objectbox-java/scripts/update-flatbuffers.sh ./objectbox-java/ci/send-to-gchat.sh ./objectbox-java/ci/test-with-asan.sh
-git@github.com:iqiyi/Andromeda.git Andromeda
-git@github.com:wequick/Small.git Small
+git@github.com:square/dagger.git dagger
+./dagger/.buildscript/deploy_snapshot.sh ./dagger/deploy_website.sh
+git@github.com:hussien89aa/AndroidTutorialForBeginners.git AndroidTutorialForBeginners
 
+git@github.com:j-easy/easy-rules.git easy-rules
 
-git@github.com:modelmapper/modelmapper.git modelmapper
-./modelmapper/bin/push-javadoc.sh
-git@github.com:square/retrofit.git retrofit
-./retrofit/deploy_website.sh
-git@github.com:Netflix/ribbon.git ribbon
+git@github.com:amitshekhariitbhu/Fast-Android-Networking.git Fast-Android-Networking
 
-git@github.com:Tencent/tinker.git tinker
-./tinker/tinker-build/tinker-patch-cli/tool_maple/build_patch_dexdiff.sh ./tinker/tinker-sample-android/updateTinkerLib.sh
-git@github.com:lsjwzh/RecyclerViewPager.git RecyclerViewPager
+git@github.com:sofastack/sofa-rpc.git sofa-rpc
+./sofa-rpc/example/src/test/java/com/alipay/sofa/rpc/protobuf/gen.sh ./sofa-rpc/registry/registry-nacos/src/test/scripts/stop-nacos-server.sh ./sofa-rpc/registry/registry-nacos/src/test/scripts/start-nacos-server.sh ./sofa-rpc/tools/change_version.sh ./sofa-rpc/tools/check_format.sh
+git@github.com:JakeWharton/scalpel.git scalpel
 
-git@github.com:termux/termux-app.git termux-app
-./termux-app/termux-shared/src/main/res/raw/apt_info_script.sh ./termux-app/art/generate-feature-graphic.sh ./termux-app/art/generate-big-icon.sh ./termux-app/art/generate-launcher-images.sh ./termux-app/art/copy-to-other-apps.sh ./termux-app/art/generate-tv-banner.sh
-git@github.com:Netflix/zuul.git zuul
-git@github.com:pagehelper/Mybatis-PageHelper.git Mybatis-PageHelper
+git@github.com:dariuszseweryn/RxAndroidBle.git RxAndroidBle
+./RxAndroidBle/.buildscript/update_version_in_readmes.sh ./RxAndroidBle/.buildscript/deploy_snapshot.sh
+git@github.com:s4kibs4mi/java-developer-roadmap.git java-developer-roadmap
 
+git@github.com:Team-xManager/xManager.git xManager
 
-git@github.com:coderbruis/JavaSourceCodeLearning.git JavaSourceCodeLearning
+git@github.com:glomadrian/Grav.git Grav
 
-git@github.com:Marswin/MarsDaemon.git MarsDaemon
+git@github.com:hugeterry/CoordinatorTabLayout.git CoordinatorTabLayout
 
-git@github.com:gongwen/MarqueeViewLibrary.git MarqueeViewLibrary
+git@github.com:airbnb/DeepLinkDispatch.git DeepLinkDispatch
 
-git@github.com:mqzhangw/JIMU.git JIMU
+git@github.com:xkcoding/spring-boot-demo.git spring-boot-demo
 
-git@github.com:githubwing/ZoomHeader.git ZoomHeader
+git@github.com:chanjarster/weixin-java-tools.git weixin-java-tools
 
-git@github.com:pardom-zz/ActiveAndroid.git ActiveAndroid
+git@github.com:tyzlmjj/PagerBottomTabStrip.git PagerBottomTabStrip
 
-git@github.com:lingochamp/okdownload.git okdownload
-./okdownload/publishToMavenLocal.sh ./okdownload/deploy-snapshot.sh
-git@github.com:Netflix/eureka.git eureka
-./eureka/eureka-server/runclient.sh ./eureka/eureka-server/runservice.sh
-git@github.com:KeepSafe/TapTargetView.git TapTargetView
+git@github.com:DuGuQiuBai/Java.git Java
 
-git@github.com:awsdocs/aws-lambda-developer-guide.git aws-lambda-developer-guide
-./aws-lambda-developer-guide/sample-apps/blank-go/2-deploy.sh ./aws-lambda-developer-guide/sample-apps/blank-go/0-run-tests.sh ./aws-lambda-developer-guide/sample-apps/blank-go/3-invoke.sh ./aws-lambda-developer-guide/sample-apps/blank-go/4-cleanup.sh ./aws-lambda-developer-guide/sample-apps/blank-go/1-create-bucket.sh ./aws-lambda-developer-guide/sample-apps/blank-csharp-with-layer/2-build-layer.sh ./aws-lambda-developer-guide/sample-apps/blank-csharp-with-layer/1-create-bucket-and-role.sh ./aws-lambda-developer-guide/sample-apps/blank-csharp-with-layer/4-invoke.sh ./aws-lambda-developer-guide/sample-apps/blank-csharp-with-layer/3-deploy.sh ./aws-lambda-developer-guide/sample-apps/blank-csharp-with-layer/5-cleanup.sh ./aws-lambda-developer-guide/sample-apps/s3-java/2-build-layer.sh ./aws-lambda-developer-guide/sample-apps/s3-java/6-cleanup.sh ./aws-lambda-developer-guide/sample-apps/s3-java/4-upload.sh ./aws-lambda-developer-guide/sample-apps/s3-java/5-invoke.sh ./aws-lambda-developer-guide/sample-apps/s3-java/3-deploy.sh ./aws-lambda-developer-guide/sample-apps/s3-java/1-create-bucket.sh ./aws-lambda-developer-guide/sample-apps/blank-python/2-build-layer.sh ./aws-lambda-developer-guide/sample-apps/blank-python/0-run-tests.sh ./aws-lambda-developer-guide/sample-apps/blank-python/4-invoke.sh ./aws-lambda-developer-guide/sample-apps/blank-python/3-deploy.sh ./aws-lambda-developer-guide/sample-apps/blank-python/1-create-bucket.sh ./aws-lambda-developer-guide/sample-apps/blank-python/5-cleanup.sh ./aws-lambda-developer-guide/sample-apps/blank-java/2-build-layer.sh ./aws-lambda-developer-guide/sample-apps/blank-java/4-invoke.sh ./aws-lambda-developer-guide/sample-apps/blank-java/3-deploy.sh ./aws-lambda-developer-guide/sample-apps/blank-java/1-create-bucket.sh ./aws-lambda-developer-guide/sample-apps/blank-java/5-cleanup.sh ./aws-lambda-developer-guide/sample-apps/java-events/2-deploy.sh ./aws-lambda-developer-guide/sample-apps/java-events/3-invoke.sh ./aws-lambda-developer-guide/sample-apps/java-events/4-cleanup.sh ./aws-lambda-developer-guide/sample-apps/java-events/1-create-bucket.sh ./aws-lambda-developer-guide/sample-apps/java-events-v1sdk/2-build-layer.sh ./aws-lambda-developer-guide/sample-apps/java-events-v1sdk/4-invoke.sh ./aws-lambda-developer-guide/sample-apps/java-events-v1sdk/3-deploy.sh ./aws-lambda-developer-guide/sample-apps/java-events-v1sdk/1-create-bucket.sh ./aws-lambda-developer-guide/sample-apps/java-events-v1sdk/5-cleanup.sh ./aws-lambda-developer-guide/sample-apps/blank-csharp/2-deploy.sh ./aws-lambda-developer-guide/sample-apps/blank-csharp/3-invoke.sh ./aws-lambda-developer-guide/sample-apps/blank-csharp/4-cleanup.sh ./aws-lambda-developer-guide/sample-apps/blank-csharp/1-create-bucket.sh ./aws-lambda-developer-guide/sample-apps/ec2-spot/2-deploy.sh ./aws-lambda-developer-guide/sample-apps/ec2-spot/3-invoke.sh ./aws-lambda-developer-guide/sample-apps/ec2-spot/4-cleanup.sh ./aws-lambda-developer-guide/sample-apps/ec2-spot/1-create-bucket.sh ./aws-lambda-developer-guide/sample-apps/blank-nodejs/2-build-layer.sh ./aws-lambda-developer-guide/sample-apps/blank-nodejs/0-run-tests.sh ./aws-lambda-developer-guide/sample-apps/blank-nodejs/4-invoke.sh ./aws-lambda-developer-guide/sample-apps/blank-nodejs/3-deploy.sh ./aws-lambda-developer-guide/sample-apps/blank-nodejs/1-create-bucket.sh ./aws-lambda-developer-guide/sample-apps/blank-nodejs/5-cleanup.sh ./aws-lambda-developer-guide/sample-apps/error-processor/2-build-layer.sh ./aws-lambda-developer-guide/sample-apps/error-processor/4-invoke.sh ./aws-lambda-developer-guide/sample-apps/error-processor/3-deploy.sh ./aws-lambda-developer-guide/sample-apps/error-processor/1-create-bucket.sh ./aws-lambda-developer-guide/sample-apps/error-processor/5-cleanup.sh ./aws-lambda-developer-guide/sample-apps/rds-mysql/2-create-dbpasswordsecret.sh ./aws-lambda-developer-guide/sample-apps/rds-mysql/5-create-dbtable.sh ./aws-lambda-developer-guide/sample-apps/rds-mysql/7-cleanup.sh ./aws-lambda-developer-guide/sample-apps/rds-mysql/3-deploy-vpc.sh ./aws-lambda-developer-guide/sample-apps/rds-mysql/6-invoke.sh ./aws-lambda-developer-guide/sample-apps/rds-mysql/1-create-bucket.sh ./aws-lambda-developer-guide/sample-apps/rds-mysql/4-deploy.sh ./aws-lambda-developer-guide/sample-apps/list-manager/2-create-dbpasswordsecret.sh ./aws-lambda-developer-guide/sample-apps/list-manager/5-create-dbtable.sh ./aws-lambda-developer-guide/sample-apps/list-manager/3-deploy-vpc.sh ./aws-lambda-developer-guide/sample-apps/list-manager/8-cleanup.sh ./aws-lambda-developer-guide/sample-apps/list-manager/6-invoke.sh ./aws-lambda-developer-guide/sample-apps/list-manager/7-put-records.sh ./aws-lambda-developer-guide/sample-apps/list-manager/bin/get-stack-event.sh ./aws-lambda-developer-guide/sample-apps/list-manager/bin/get-kinesis-stream.sh ./aws-lambda-developer-guide/sample-apps/list-manager/bin/get-stack-status.sh ./aws-lambda-developer-guide/sample-apps/list-manager/1-create-bucket.sh ./aws-lambda-developer-guide/sample-apps/list-manager/4-deploy.sh ./aws-lambda-developer-guide/sample-apps/nodejs-apig/2-deploy.sh ./aws-lambda-developer-guide/sample-apps/nodejs-apig/3-invoke.sh ./aws-lambda-developer-guide/sample-apps/nodejs-apig/4-get.sh ./aws-lambda-developer-guide/sample-apps/nodejs-apig/1-create-bucket.sh ./aws-lambda-developer-guide/sample-apps/nodejs-apig/5-cleanup.sh ./aws-lambda-developer-guide/sample-apps/efs-nodejs/4-invoke.sh ./aws-lambda-developer-guide/sample-apps/efs-nodejs/2-deploy-vpc.sh ./aws-lambda-developer-guide/sample-apps/efs-nodejs/3-deploy.sh ./aws-lambda-developer-guide/sample-apps/efs-nodejs/1-create-bucket.sh ./aws-lambda-developer-guide/sample-apps/efs-nodejs/5-cleanup.sh ./aws-lambda-developer-guide/sample-apps/blank-powershell/2-deploy.sh ./aws-lambda-developer-guide/sample-apps/blank-powershell/3-invoke.sh ./aws-lambda-developer-guide/sample-apps/blank-powershell/4-cleanup.sh ./aws-lambda-developer-guide/sample-apps/blank-powershell/1-create-bucket.sh ./aws-lambda-developer-guide/sample-apps/java-basic/2-deploy.sh ./aws-lambda-developer-guide/sample-apps/java-basic/3-invoke.sh ./aws-lambda-developer-guide/sample-apps/java-basic/4-cleanup.sh ./aws-lambda-developer-guide/sample-apps/java-basic/1-create-bucket.sh ./aws-lambda-developer-guide/sample-apps/java17-examples/2-deploy.sh ./aws-lambda-developer-guide/sample-apps/java17-examples/3-invoke.sh ./aws-lambda-developer-guide/sample-apps/java17-examples/4-cleanup.sh ./aws-lambda-developer-guide/sample-apps/java17-examples/1-create-bucket.sh ./aws-lambda-developer-guide/sample-apps/blank-ruby/2-build-layer.sh ./aws-lambda-developer-guide/sample-apps/blank-ruby/0-run-tests.sh ./aws-lambda-developer-guide/sample-apps/blank-ruby/4-invoke.sh ./aws-lambda-developer-guide/sample-apps/blank-ruby/3-deploy.sh ./aws-lambda-developer-guide/sample-apps/blank-ruby/1-create-bucket.sh ./aws-lambda-developer-guide/sample-apps/blank-ruby/5-cleanup.sh
-git@github.com:iammert/ScalingLayout.git ScalingLayout
+git@github.com:RipMeApp/ripme.git ripme
+./ripme/build.sh ./ripme/utils/style.sh ./ripme/utils/stylefix.sh
+git@github.com:sshahine/JFoenix.git JFoenix
 
-git@github.com:JesusFreke/smali.git smali
+git@github.com:HannahMitt/HomeMirror.git HomeMirror
+./HomeMirror/design/install_assets.sh
+git@github.com:alibaba/ARouter.git ARouter
 
-git@github.com:HdrHistogram/HdrHistogram.git HdrHistogram
+git@github.com:Manabu-GT/ExpandableTextView.git ExpandableTextView
 
-git@github.com:beemdevelopment/Aegis.git Aegis
+git@github.com:DiUS/java-faker.git java-faker
 
-git@github.com:BruceEckel/OnJava8-Examples.git OnJava8-Examples
+git@github.com:real-logic/agrona.git agrona
+./agrona/publish_artifacts.sh
+git@github.com:fuzhengwei/small-spring.git small-spring
 
-git@github.com:wenmingvs/AndroidProcess.git AndroidProcess
+git@github.com:AdoptOpenJDK/jitwatch.git jitwatch
+./jitwatch/scripts/launchUI.sh ./jitwatch/scripts/jarScan.sh ./jitwatch/scripts/showLines.sh ./jitwatch/scripts/launchHeadless.sh ./jitwatch/scripts/histoPlotter.sh ./jitwatch/scripts/makeDemoLogFile.sh
+git@github.com:powermock/powermock.git powermock
+./powermock/docs/generate_javadoc.sh
+git@github.com:sofastack/sofa-boot.git sofa-boot
+./sofa-boot/tools/check_format.sh
+git@github.com:jprante/elasticsearch-jdbc.git elasticsearch-jdbc
+./elasticsearch-jdbc/bin/oracle-connection-properties.sh ./elasticsearch-jdbc/bin/postgresql-simple-example.sh ./elasticsearch-jdbc/bin/postgresql-geo.sh ./elasticsearch-jdbc/bin/mysql-blog.sh ./elasticsearch-jdbc/bin/mysql-wikimedia-example.sh ./elasticsearch-jdbc/bin/mysql-geo-points.sh ./elasticsearch-jdbc/bin/mysql-metawiki.sh ./elasticsearch-jdbc/bin/mysql-delete-document.sh ./elasticsearch-jdbc/bin/mysql-schedule.sh ./elasticsearch-jdbc/bin/mysql-ignore-null-values.sh ./elasticsearch-jdbc/bin/mysql-geo-shapes.sh ./elasticsearch-jdbc/bin/mysql-state-example.sh ./elasticsearch-jdbc/bin/mysql-schedule-acknowledge.sh
+git@github.com:JSQLParser/JSqlParser.git JSqlParser
 
-git@github.com:Haleydu/Cimoc.git Cimoc
-./Cimoc/.travis/build.sh
-git@github.com:rovo89/XposedInstaller.git XposedInstaller
-
-git@github.com:ZieIony/Carbon.git Carbon
-
-git@github.com:Javen205/IJPay.git IJPay
-./IJPay/packages/docs/deploy.sh ./IJPay/IJPay-Demo-JFinal/jfinal.sh ./IJPay/bin/update_version.sh ./IJPay/bin/del_versions_backup.sh ./IJPay/bin/install.sh ./IJPay/bin/check_dependency_updates.sh ./IJPay/bin/deploy.sh
-git@github.com:hansonwang99/Spring-Boot-In-Action.git Spring-Boot-In-Action
-
-git@github.com:qunarcorp/bistoury.git bistoury
-./bistoury/script/h2/h2.sh ./bistoury/script/build.sh ./bistoury/script/debug.sh ./bistoury/script/quick_start.sh ./bistoury/script/quick_start_build.sh ./bistoury/bistoury-dist/bin/bistoury-agent.sh ./bistoury/bistoury-dist/bin/base.sh ./bistoury/bistoury-dist/bin/qjtool-base.sh ./bistoury/bistoury-dist/bin/bistoury-agent-env.sh ./bistoury/bistoury-dist/bin/qjtop.sh ./bistoury/bistoury-dist/bin/qjmxcli.sh ./bistoury/bistoury-dist/bin/qjdump.sh ./bistoury/bistoury-dist/bin/qjmap.sh ./bistoury/bistoury-ui/src/bin/bistoury-ui.sh ./bistoury/bistoury-ui/src/bin/base.sh ./bistoury/bistoury-ui/src/bin/bistoury-ui-env.sh ./bistoury/bistoury-proxy/src/bin/base.sh ./bistoury/bistoury-proxy/src/bin/bistoury-proxy-env.sh ./bistoury/bistoury-proxy/src/bin/bistoury-proxy.sh
-git@github.com:CJT2325/CameraView.git CameraView
-
-git@github.com:qii/weiciyuan.git weiciyuan
-
-git@github.com:software-mansion/react-native-svg.git react-native-svg
-
-git@github.com:pinguo-zhouwei/MZBannerView.git MZBannerView
-
-git@github.com:clojure/clojure.git clojure
-./clojure/antsetup.sh
-git@github.com:FinalTeam/RxGalleryFinal.git RxGalleryFinal
-
-git@github.com:alibaba/Alink.git Alink
-./Alink/shaded_libraries/shaded_hive_deps/hive-deps-2-0/src/main/resources/download.sh ./Alink/shaded_libraries/third_party_flink_ai_extended/flink-ml-framework/sbin/pip_install_packages.sh ./Alink/shaded_libraries/third_party_flink_ai_extended/flink-ml-framework/sbin/sed_pb2_import.sh ./Alink/shaded_libraries/third_party_flink_ai_extended/flink-ml-framework/python/lib/pybind11-2.2.4/tools/check-style.sh ./Alink/shaded_libraries/third_party_flink_ai_extended/tools/build_tf2_wheel.sh ./Alink/shaded_libraries/third_party_flink_ai_extended/tools/build_tf1_wheel.sh ./Alink/shaded_libraries/third_party_flink_ai_extended/tools/create_venv_package.sh ./Alink/shaded_libraries/build_on_apple_m1.sh ./Alink/webui/tools/build-image.sh ./Alink/webui/tools/flink-with-alink-jar/build.sh ./Alink/core/src/main/python/akdl/akdl/models/tf/tft/run.sh ./Alink/core/src/main/python/python_runner/run_gateway.sh ./Alink/core/src/main/resources/call_conda_pack.sh ./Alink/python/src/main/python/dev/run_unit_tests.sh ./Alink/python/src/main/python/dev/integration_tests/run_integration_tests.sh ./Alink/python/src/main/python/dev/integration_tests/pyflink_tests/run_pyflink_tests.sh ./Alink/python/src/main/python/dev/integration_tests/examples/run_examples.sh ./Alink/python/src/main/python/dev/integration_tests/remote_tests/run_remote_tests.sh
-git@github.com:toolbox4minecraft/amidst.git amidst
-./amidst/travis-ci/scripts/zip-and-move-wrapper-for-mac.sh ./amidst/travis-ci/scripts/get-amidst-filename.sh
-git@github.com:EhsanTang/ApiManager.git ApiManager
-
-git@github.com:DingMouRen/LayoutManagerGroup.git LayoutManagerGroup
-
-git@github.com:GrowingGit/GitHub-Chinese-Top-Charts.git GitHub-Chinese-Top-Charts
-
-git@github.com:doublechaintech/scm-biz-suite.git scm-biz-suite
-./scm-biz-suite/upgrade-caf-framework.sh ./scm-biz-suite/build.sh ./scm-biz-suite/sync-react.sh ./scm-biz-suite/java-sync.sh ./scm-biz-suite/huawei-sync.sh ./scm-biz-suite/backend-sync.sh ./scm-biz-suite/bizcore/startup.sh ./scm-biz-suite/create.sh ./scm-biz-suite/ui-and-backend-sync.sh ./scm-biz-suite/sync-data.sh ./scm-biz-suite/cleaninfra.sh ./scm-biz-suite/frontend-sync.sh ./scm-biz-suite/update-code-from-model.sh ./scm-biz-suite/upgrade-ui-framework.sh ./scm-biz-suite/cleangit-bizcore.sh ./scm-biz-suite/cleangit.sh ./scm-biz-suite/deploy.sh
-git@github.com:go-lang-plugin-org/go-lang-idea-plugin.git go-lang-idea-plugin
-./go-lang-idea-plugin/cloneToWt.sh ./go-lang-idea-plugin/src/com/goide/lexer/gen_lexer.sh
-git@github.com:limboemu/limbo.git limbo
-
-git@github.com:discord-jda/JDA.git JDA
-
-git@github.com:spring-projects/spring-data-elasticsearch.git spring-data-elasticsearch
-./spring-data-elasticsearch/ci/verify.sh ./spring-data-elasticsearch/ci/clean.sh
-git@github.com:katzer/cordova-plugin-local-notifications.git cordova-plugin-local-notifications
-
-git@github.com:bm-x/PhotoView.git PhotoView
-
-git@github.com:getActivity/Toaster.git Toaster
-
-git@github.com:OpenHFT/Chronicle-Map.git Chronicle-Map
-
-git@github.com:dromara/lamp-cloud.git lamp-cloud
-./lamp-cloud/01-docs/shells/linux/run.sh ./lamp-cloud/01-docs/shells/linux/restart-authority.sh ./lamp-cloud/01-docs/dockerfile/rabbitmq/start.sh ./lamp-cloud/01-docs/dockerfile/mysql/start.sh ./lamp-cloud/01-docs/dockerfile/nginx/start.sh ./lamp-cloud/01-docs/dockerfile/mysql8/start.sh ./lamp-cloud/01-docs/dockerfile/xxFileView/restart.sh ./lamp-cloud/01-docs/dockerfile/nacos/start.sh ./lamp-cloud/01-docs/dockerfile/redis/start.sh ./lamp-cloud/01-docs/dockerfile/MinIo/run.sh ./lamp-cloud/01-third-party/seata/script/config-center/nacos/nacos-config.sh
-git@github.com:apache/rocketmq.git rocketmq
-./rocketmq/distribution/benchmark/shutdown.sh ./rocketmq/distribution/benchmark/producer.sh ./rocketmq/distribution/benchmark/runclass.sh ./rocketmq/distribution/benchmark/consumer.sh ./rocketmq/distribution/benchmark/tproducer.sh ./rocketmq/distribution/benchmark/batchproducer.sh ./rocketmq/distribution/bin/setcache.sh ./rocketmq/distribution/bin/dledger/fast-try.sh ./rocketmq/distribution/bin/export.sh ./rocketmq/distribution/bin/cleancache.sh ./rocketmq/distribution/bin/controller/fast-try-namesrv-plugin.sh ./rocketmq/distribution/bin/controller/fast-try.sh ./rocketmq/distribution/bin/controller/fast-try-independent-deployment.sh ./rocketmq/distribution/bin/cleancache.v1.sh ./rocketmq/distribution/bin/tools.sh ./rocketmq/distribution/bin/cachedog.sh ./rocketmq/distribution/bin/os.sh ./rocketmq/distribution/bin/play.sh ./rocketmq/distribution/bin/runserver.sh ./rocketmq/distribution/bin/runbroker.sh ./rocketmq/distribution/bin/startfsrv.sh
-git@github.com:jeecgboot/jeecg-boot.git jeecg-boot
-
-git@github.com:apache/dubbo.git dubbo
-./dubbo/licenseCheck.sh ./dubbo/dubbo-container/dubbo-container-api/src/main/resources/META-INF/assembly/bin/server.sh ./dubbo/dubbo-container/dubbo-container-api/src/main/resources/META-INF/assembly/bin/start.sh ./dubbo/dubbo-container/dubbo-container-api/src/main/resources/META-INF/assembly/bin/restart.sh ./dubbo/dubbo-container/dubbo-container-api/src/main/resources/META-INF/assembly/bin/stop.sh ./dubbo/dubbo-container/dubbo-container-api/src/main/resources/META-INF/assembly/bin/dump.sh
-git@github.com:google/santa-tracker-android.git santa-tracker-android
-
-git@github.com:liuyubobobo/Play-with-Algorithms.git Play-with-Algorithms
-
-git@github.com:apache/pdfbox.git pdfbox
-
-git@github.com:201206030/novel.git novel
-
-git@github.com:mybatis/mybatis-3.git mybatis-3
-
-git@github.com:apache/zookeeper.git zookeeper
-./zookeeper/zookeeper-server/src/test/resources/test-patch.sh ./zookeeper/zookeeper-server/src/test/resources/test-scripts.sh ./zookeeper/zookeeper-server/src/test/resources/test-github-pr.sh ./zookeeper/zookeeper-server/src/main/resources/lastRevision.sh ./zookeeper/zookeeper-recipes/zookeeper-recipes-queue/src/main/c/tests/zkServer.sh ./zookeeper/zookeeper-recipes/zookeeper-recipes-lock/src/main/c/tests/zkServer.sh ./zookeeper/dev/docker/run.sh ./zookeeper/zookeeper-client/zookeeper-client-c/tests/zkServer.sh ./zookeeper/zookeeper-client/zookeeper-client-c/ssl/gencerts.sh ./zookeeper/bin/zkSnapshotComparer.sh ./zookeeper/bin/zkCli.sh ./zookeeper/bin/zkServer.sh ./zookeeper/bin/zkEnv.sh ./zookeeper/bin/zkSnapShotToolkit.sh ./zookeeper/bin/zkSnapshotRecursiveSummaryToolkit.sh ./zookeeper/bin/zkCleanup.sh ./zookeeper/bin/zkTxnLogToolkit.sh ./zookeeper/bin/zkServer-initialize.sh ./zookeeper/zookeeper-contrib/zookeeper-contrib-rest/src/test/zkServer.sh ./zookeeper/zookeeper-contrib/zookeeper-contrib-rest/rest.sh ./zookeeper/zookeeper-contrib/zookeeper-contrib-loggraph/src/main/resources/loggraph.sh ./zookeeper/zookeeper-contrib/zookeeper-contrib-loggraph/src/main/resources/loggraph-dev.sh ./zookeeper/zookeeper-contrib/zookeeper-contrib-zooinspector/zooInspector.sh ./zookeeper/zookeeper-contrib/zookeeper-contrib-zooinspector/zooInspector-dev.sh ./zookeeper/zookeeper-contrib/zookeeper-contrib-zkpython/src/test/zkServer.sh ./zookeeper/zookeeper-contrib/zookeeper-contrib-zkpython/src/test/run_tests.sh ./zookeeper/tools/sonar/code-coverage.sh
-git@github.com:AntennaPod/AntennaPod.git AntennaPod
-./AntennaPod/scripts/makeRelease.sh ./AntennaPod/.github/workflows/runEmulatorTests.sh
-git@github.com:eclipse/jetty.project.git jetty.project
-./jetty.project/jetty-home/src/main/resources/bin/jetty.sh ./jetty.project/demos/demo-jetty-webapp/src/main/webapp/cgi-bin/hello.sh ./jetty.project/scripts/looptest.sh ./jetty.project/scripts/clirr-gen-master-index.sh ./jetty.project/scripts/query-git-stats.sh ./jetty.project/scripts/git-log-csv.sh ./jetty.project/scripts/release-jetty.sh
-git@github.com:Antabot/White-Jotter.git White-Jotter
-
-git@github.com:apache/groovy.git groovy
-./groovy/.muse/codenarc.sh
-git@github.com:williamfiset/DEPRECATED-data-structures.git DEPRECATED-data-structures
-
-git@github.com:pqpo/SmartCropper.git SmartCropper
-
-git@github.com:spring-projects/spring-framework.git spring-framework
-./spring-framework/update_copyright_headers.sh ./spring-framework/ci/scripts/build-pr.sh ./spring-framework/ci/scripts/common.sh ./spring-framework/ci/scripts/generate-changelog.sh ./spring-framework/ci/scripts/stage-version.sh ./spring-framework/ci/scripts/promote-version.sh ./spring-framework/ci/scripts/build-project.sh ./spring-framework/ci/scripts/check-project.sh ./spring-framework/ci/images/get-jdk-url.sh ./spring-framework/ci/images/setup.sh
-git@github.com:apache/storm.git storm
-./storm/dev-tools/rc/download-rc-directory.sh ./storm/dev-tools/rc/verify-release-file.sh ./storm/dev-tools/gitact/gitact-install.sh ./storm/dev-tools/gitact/gitact-script.sh ./storm/dev-tools/collect_license_files.sh ./storm/conf/storm-env.sh ./storm/storm-core/src/resources/compile-worker-launcher.sh ./storm/integration-test/config/common.sh ./storm/integration-test/config/install-storm.sh ./storm/integration-test/run-it.sh ./storm/storm-client/src/genthrift.sh ./storm/aws-bin/init.sh ./storm/external/storm-blobstore-migration/listLocal.sh ./storm/external/storm-blobstore-migration/migrate.sh ./storm/external/storm-blobstore-migration/listHDFS.sh
-git@github.com:gocd/gocd.git gocd
-./gocd/scripts/clean-workingdir.sh ./gocd/buildSrc/src/main/resources/gocd-docker-agent/run-docker-daemon.sh ./gocd/buildSrc/src/main/resources/gocd-docker-agent/docker-entrypoint.sh ./gocd/buildSrc/src/main/resources/gocd-docker-server/docker-entrypoint.sh
-git@github.com:apache/kylin.git kylin
-./kylin/docker/stop_cluster.sh ./kylin/docker/setup_standalone.sh ./kylin/docker/conf/spark/spark-env.sh ./kylin/docker/build_cluster_images.sh ./kylin/docker/setup_service.sh ./kylin/docker/header.sh ./kylin/docker/build_standalone_image.sh ./kylin/docker/dockerfile/cluster/resourcemanager/run_rm.sh ./kylin/docker/dockerfile/cluster/nodemanager/run_nm.sh ./kylin/docker/dockerfile/cluster/metastore-db/run_db.sh ./kylin/docker/dockerfile/cluster/historyserver/run_history.sh ./kylin/docker/dockerfile/cluster/namenode/run_nn.sh ./kylin/docker/dockerfile/cluster/hregionserver/run_hr.sh ./kylin/docker/dockerfile/cluster/base/entrypoint.sh ./kylin/docker/dockerfile/cluster/hmaster/run_hm.sh ./kylin/docker/dockerfile/cluster/client/run_cli.sh ./kylin/docker/dockerfile/cluster/client/entrypoint.sh ./kylin/docker/dockerfile/cluster/kerberos/run_krb.sh ./kylin/docker/dockerfile/cluster/datanode/run_dn.sh ./kylin/docker/dockerfile/cluster/hbase/entrypoint.sh ./kylin/docker/dockerfile/cluster/kylin/entrypoint.sh ./kylin/docker/dockerfile/cluster/hive/run_hv.sh ./kylin/docker/dockerfile/cluster/hive/conf/hive-env.sh ./kylin/docker/dockerfile/cluster/hive/entrypoint.sh ./kylin/docker/dockerfile/standalone/conf/spark/spark-env.sh ./kylin/docker/dockerfile/standalone/conf/bin/kylin.sh ./kylin/docker/dockerfile/standalone/entrypoint.sh ./kylin/docker/setup_hadoop_cluster.sh ./kylin/dev-support/test_all_against_hdp_2_4_0_0_169.sh ./kylin/dev-support/build-release/script/build_release.sh ./kylin/dev-support/build-release/script/entrypoint.sh ./kylin/dev-support/build-release/packaging.sh ./kylin/dev-support/sync_hbase_cdh_branches.sh ./kylin/dev-support/make_patch.sh ./kylin/build/script/compress.sh ./kylin/build/script/build.sh ./kylin/build/script/prepare.sh ./kylin/build/script/package.sh ./kylin/build/script/prepare-libs.sh ./kylin/build/script/download-tomcat.sh ./kylin/build/conf/setenv-tool.sh ./kylin/build/conf/setenv.sh ./kylin/build/smoke-test/smoke-test.sh ./kylin/build/bin/kylin-port-replace-util.sh ./kylin/build/bin/find-kafka-dependency.sh ./kylin/build/bin/prepare-hadoop-dependency.sh ./kylin/build/bin/util.sh ./kylin/build/bin/check-hadoop-env.sh ./kylin/build/bin/load-hive-conf.sh ./kylin/build/bin/set-java-home.sh ./kylin/build/bin/build-incremental-cube.sh ./kylin/build/bin/check-hive-usability.sh ./kylin/build/bin/check-port-availability.sh ./kylin/build/bin/find-hadoop-conf-dir.sh ./kylin/build/bin/system-cube.sh ./kylin/build/bin/find-hbase-dependency.sh ./kylin/build/bin/check-env.sh ./kylin/build/bin/check-migration-acl.sh ./kylin/build/bin/sample-streaming.sh ./kylin/build/bin/sample.sh ./kylin/build/bin/find-spark-dependency.sh ./kylin/build/bin/kylin.sh ./kylin/build/bin/download-spark.sh ./kylin/build/bin/health-check.sh ./kylin/build/bin/get-properties.sh ./kylin/build/bin/kill-process-tree.sh ./kylin/build/bin/header.sh ./kylin/build/bin/diag.sh ./kylin/build/bin/metastore.sh ./kylin/build/CI/run-ci.sh
-git@github.com:DSAppTeam/PanelSwitchHelper.git PanelSwitchHelper
-
-git@github.com:oshi/oshi.git oshi
-
-git@github.com:shopizer-ecommerce/shopizer.git shopizer
-
-git@github.com:java-native-access/jna.git jna
-./jna/create-export-package-metadata.sh ./jna/native/ld.sh ./jna/native/cc.sh ./jna/native/libffi/.ci/build.sh ./jna/native/libffi/.ci/build-in-container.sh ./jna/native/libffi/.ci/build-cross-in-container.sh ./jna/native/libffi/.ci/install.sh ./jna/native/libffi/msvcc.sh ./jna/native/libffi/autogen.sh
-git@github.com:NekoX-Dev/NekoX.git NekoX
-./NekoX/TMessagesProj/jni/third_party/breakpad/src/third_party/glog/src/demangle_unittest.sh ./NekoX/TMessagesProj/jni/third_party/breakpad/src/third_party/glog/src/signalhandler_unittest.sh ./NekoX/TMessagesProj/jni/third_party/breakpad/src/third_party/glog/src/logging_striplog_test.sh ./NekoX/TMessagesProj/jni/third_party/breakpad/src/third_party/glog/src/windows/preprocess.sh ./NekoX/TMessagesProj/jni/third_party/breakpad/src/third_party/protobuf/protobuf/src/google/protobuf/io/gzip_stream_unittest.sh ./NekoX/TMessagesProj/jni/third_party/breakpad/src/third_party/protobuf/protobuf/src/google/protobuf/compiler/zip_output_unittest.sh ./NekoX/TMessagesProj/jni/patch_boringssl.sh ./NekoX/TMessagesProj/jni/patch_ffmpeg.sh ./NekoX/TMessagesProj/jni/build_ffmpeg_clang.sh ./NekoX/TMessagesProj/jni/build_boringssl.sh ./NekoX/TMessagesProj/jni/build_libvpx_clang.sh ./NekoX/bin/libs/v2ray/build.sh ./NekoX/bin/libs/v2ray/init.sh ./NekoX/bin/libs/update.sh ./NekoX/bin/libs/shadowsocks.sh ./NekoX/bin/libs/ssr.sh ./NekoX/bin/libs/v2ray.sh ./NekoX/bin/libs/native.sh ./NekoX/bin/app/release.sh ./NekoX/bin/app/build.sh ./NekoX/bin/app/debug.sh ./NekoX/bin/app/upload.sh ./NekoX/bin/app/play.sh ./NekoX/bin/app/alaha.sh ./NekoX/bin/app/init.sh ./NekoX/bin/fdroid/build.sh ./NekoX/bin/fdroid/prebuild.sh ./NekoX/bin/init/libs/boringssl.sh ./NekoX/bin/init/libs/ffmpeg.sh ./NekoX/bin/init/libs/libvpx.sh ./NekoX/bin/init/env.sh ./NekoX/bin/init/libs.sh ./NekoX/bin/init/action/boringssl.sh ./NekoX/bin/init/action/shadowsocks.sh
-git@github.com:claritylab/lucida.git lucida
-./lucida/lucida/calendar/CalendarClient/compile-Calendar-client.sh ./lucida/lucida/calendar/CalendarClient/start-Calendar-client.sh ./lucida/lucida/speechrecognition/kaldi_gstreamer_asr/install_kaldi_tts.sh ./lucida/lucida/speechrecognition/kaldi_gstreamer_asr/start.sh ./lucida/lucida/speechrecognition/kaldi_gstreamer_asr/install_kaldi.sh ./lucida/lucida/speechrecognition/kaldi_gstreamer_asr/test/models/download-fisher-nnet2.sh ./lucida/lucida/speechrecognition/kaldi_gstreamer_asr/test/models/download-tedlium-nnet2.sh ./lucida/lucida/speechrecognition/kaldi_gstreamer_asr/simple_start.sh ./lucida/lucida/speechrecognition/kaldi_gstreamer_asr/stop.sh ./lucida/lucida/speechrecognition/kaldi_gstreamer_asr/install_idlak.sh ./lucida/lucida/botframework-interface/start_interface.sh ./lucida/lucida/botframework-interface/deps/install_phantomjs.sh ./lucida/lucida/botframework-interface/deps/install_node.sh ./lucida/lucida/botframework-interface/deps/install_ngrok.sh ./lucida/lucida/asyncthrift/fake/auto.sh ./lucida/lucida/commandcenter/clear_db.sh ./lucida/lucida/commandcenter/gen_certs.sh ./lucida/lucida/commandcenter/apache/install_apache.sh ./lucida/lucida/questionanswering/OpenEphyra/src/info/ephyra/nlp/compile-snowball.sh ./lucida/lucida/questionanswering/OpenEphyra/scripts/OpenEphyraCorpus.sh ./lucida/lucida/questionanswering/OpenEphyra/scripts/EphyraTREC8To11.sh ./lucida/lucida/questionanswering/OpenEphyra/scripts/EphyraTREC13To16.sh ./lucida/lucida/questionanswering/OpenEphyra/scripts/OpenEphyra.sh ./lucida/lucida/questionanswering/OpenEphyra/start_test.sh ./lucida/lucida/questionanswering/OpenEphyra/start_server.sh ./lucida/lucida/djinntonic/imc/make_imc.sh ./lucida/lucida/djinntonic/tools/install-protobuf.sh ./lucida/lucida/djinntonic/tools/install-caffe.sh ./lucida/tools/install_thrift.sh ./lucida/tools/install_python.sh ./lucida/tools/start_all_tmux.sh ./lucida/tools/install_java.sh ./lucida/tools/install_opencv.sh ./lucida/tools/install_fbthrift.sh ./lucida/tools/deploy/cluster_up_linux.sh ./lucida/tools/deploy/cluster_up_osx.sh ./lucida/tools/deploy/start_services.sh ./lucida/tools/install_mongodb.sh ./lucida/tools/apt_deps.sh ./lucida/tools/clean.sh ./lucida/tools/download_wiki_index.sh
+git@github.com:wix/react-native-notifications.git react-native-notifications
+./react-native-notifications/scripts/install.android.sh ./react-native-notifications/scripts/install.ios.sh ./react-native-notifications/scripts/install.sh
+git@github.com:iwgang/CountdownView.git CountdownView
+
+git@github.com:andOTP/andOTP.git andOTP
+
+git@github.com:redis/jedis.git jedis
+
+git@github.com:ManuelPeinado/FadingActionBar.git FadingActionBar
+
+git@github.com:alibaba/DataX.git DataX
+./DataX/tdenginewriter/src/test/resources/incremental_sync/clean_env.sh ./DataX/tdenginewriter/src/test/resources/incremental_sync/upload.sh ./DataX/tdenginewriter/src/test/resources/incremental_sync/dm2t_sync.sh ./DataX/rpm/t_dp_dw_datax_3_core_all-build.sh ./DataX/rpm/t_dp_dw_datax_3_hook_dqc-build.sh ./DataX/elasticsearchwriter/build.sh
+git@github.com:sockeqwe/mosby.git mosby
+./mosby/deploy_javadoc.sh ./mosby/.buildscript/swarmer/swarmer_start.sh ./mosby/.buildscript/swarmer/swarmer_stop.sh ./mosby/.buildscript/deploy_snapshot.sh
+git@github.com:lenve/JavaEETest.git JavaEETest
+
+git@github.com:spring-projects/spring-data-examples.git spring-data-examples
+
+git@github.com:JackyAndroid/AndroidTVLauncher.git AndroidTVLauncher
+
+git@github.com:apache/seatunnel.git seatunnel
+./seatunnel/seatunnel-core/seatunnel-starter/src/main/bin/seatunnel-cluster.sh ./seatunnel/seatunnel-core/seatunnel-starter/src/main/bin/stop-seatunnel-cluster.sh ./seatunnel/seatunnel-core/seatunnel-starter/src/main/bin/seatunnel.sh ./seatunnel/seatunnel-core/seatunnel-spark-starter/seatunnel-spark-3-starter/src/main/bin/start-seatunnel-spark-3-connector-v2.sh ./seatunnel/seatunnel-core/seatunnel-spark-starter/seatunnel-spark-2-starter/src/main/bin/start-seatunnel-spark-2-connector-v2.sh ./seatunnel/seatunnel-core/seatunnel-flink-starter/seatunnel-flink-15-starter/src/main/bin/start-seatunnel-flink-15-connector-v2.sh ./seatunnel/seatunnel-core/seatunnel-flink-starter/seatunnel-flink-13-starter/src/main/bin/start-seatunnel-flink-13-connector-v2.sh ./seatunnel/generate_client_protocol.sh ./seatunnel/config/seatunnel-env.sh ./seatunnel/bin/install-plugin.sh ./seatunnel/seatunnel-e2e/seatunnel-connector-v2-e2e/connector-pulsar-e2e/src/test/resources/pulsar/start_canal_connector.sh ./seatunnel/tools/documents/sync.sh ./seatunnel/tools/sonarcheck/check.sh ./seatunnel/tools/spotless_check/pre-commit.sh ./seatunnel/tools/dependencies/checkLicense.sh
+git@github.com:zhou-you/RxEasyHttp.git RxEasyHttp
+
+git@github.com:AnyListen/tools-ocr.git tools-ocr
+
+git@github.com:wildfirechat/im-server.git im-server
+./im-server/build.sh ./im-server/distribution/src/main/scripts/wildfirechat.sh ./im-server/distribution/src/main/scripts/stop.sh ./im-server/distribution/src/main/rpm/uninstall.sh ./im-server/distribution/src/main/rpm/install.sh
+git@github.com:baomidou/mybatis-plus.git mybatis-plus
+
+git@github.com:jenkinsci/blueocean-plugin.git blueocean-plugin
+./blueocean-plugin/docker/official/build.sh ./blueocean-plugin/acceptance-tests/src/test/resources/test_scripts/freestylePing.sh ./blueocean-plugin/acceptance-tests/src/test/resources/test_scripts/freestyle.sh ./blueocean-plugin/acceptance-tests/runner/scripts/stop-bitbucket-server.sh ./blueocean-plugin/acceptance-tests/runner/scripts/stop-selenium.sh ./blueocean-plugin/acceptance-tests/runner/scripts/args.sh ./blueocean-plugin/acceptance-tests/runner/scripts/start-selenium.sh ./blueocean-plugin/acceptance-tests/runner/scripts/maven.sh ./blueocean-plugin/acceptance-tests/runner/scripts/download.sh ./blueocean-plugin/acceptance-tests/runner/scripts/start-bitbucket-server.sh ./blueocean-plugin/acceptance-tests/runner/scripts/site-publish.sh ./blueocean-plugin/acceptance-tests/runner/runtime/src/test/resources/test_scripts/freestylePing.sh ./blueocean-plugin/acceptance-tests/runner/runtime/src/test/resources/test_scripts/freestyle.sh ./blueocean-plugin/acceptance-tests/run.sh ./blueocean-plugin/blueocean-github-pipeline/run_proxy.sh ./blueocean-plugin/bin/jwtcurl.sh ./blueocean-plugin/bin/git-helper.sh ./blueocean-plugin/bin/setup.sh ./blueocean-plugin/bin/start.sh ./blueocean-plugin/bin/build-in-docker.sh ./blueocean-plugin/jenkins-design-language/scripts/find-no-flow.sh ./blueocean-plugin/jenkins-design-language/site-publish.sh
+git@github.com:linkedin/databus.git databus
+./databus/build.sh ./databus/db/databus2-bootstrap/createUser/cr_databus2.sh ./databus/db/databus2-bootstrap/bootstrap_create_tables.sh ./databus/db/databus2-bootstrap/createSchema/createSchema.sh ./databus/db/databus2-bootstrap/createSchema/apply_patches.sh ./databus/db/databus2-bootstrap/createSchema/dropSchema.sh ./databus/db/databus2-bootstrap/bootstrap_drop_tables.sh ./databus/db/databus2-bootstrap/bootstrap_db_reinit.sh ./databus/db/oracle/fwk/schema/ddl_vw.sh ./databus/db/oracle/fwk/schema/ddl_prc1.sh ./databus/db/oracle/fwk/schema/ddl_trg.sh ./databus/db/oracle/fwk/schema/ddl_tab.sh ./databus/db/oracle/fwk/schema/ddl_prc.sh ./databus/db/oracle/fwk/schema/ddl_con.sh ./databus/db/oracle/fwk/schema/ddl_ind.sh ./databus/db/oracle/fwk/schema/ddl_sqs.sh ./databus/db/oracle/bin/createSchema.sh ./databus/db/oracle/bin/createUser.sh ./databus/db/oracle/bin/dropSchema.sh ./databus/databus2-example/databus2-example-relay-pkg/script/stop-example-relay.sh ./databus/databus2-example/databus2-example-relay-pkg/script/create_person.sh ./databus/databus2-example/databus2-example-relay-pkg/script/start-example-relay.sh ./databus/databus2-example/database/loadPersons.sh ./databus/databus2-example/database/dbreinit_persons.sh ./databus/databus2-example/databus2-example-bst-producer-pkg/script/start-bst-producer.sh ./databus/databus2-example/databus2-example-bst-producer-pkg/script/stop-bst-producer.sh ./databus/databus2-example/databus2-example-client-pkg/script/start-example-client.sh ./databus/databus2-example/databus2-example-client-pkg/script/stop-example-client.sh ./databus/databus-util-cmdline/databus2-cmdline-tools-pkg/script/dbus2-interactive-avro-schema-gen.sh ./databus/databus-util-cmdline/databus2-cmdline-tools-pkg/script/run-devrelay-src-config-gen.sh ./databus/databus-util-cmdline/databus2-cmdline-tools-pkg/script/dbus2-avro-schema-gen.sh ./databus/databus-util-cmdline/databus2-cmdline-tools-pkg/script/avro-data-gen.sh ./databus/merge-source-trees.sh ./databus/databus-core/databus-core-schema-tools-pkg/bin/avro-converter.sh ./databus/databus-bootstrap-server/databus-bootstrap-server-pkg/script/stop-bst-server.sh ./databus/databus-bootstrap-server/databus-bootstrap-server-pkg/script/start-bst-server.sh
+git@github.com:bitcoinj/bitcoinj.git bitcoinj
+
+git@github.com:mxdldev/android-mvp-mvvm-flytour.git android-mvp-mvvm-flytour
+
+git@github.com:kubernetes-client/java.git java
+./java/client-java-contrib/admissionreview/generate.sh ./java/client-java-contrib/generate.sh ./java/client-java-contrib/prometheus-operator/update.sh ./java/client-java-contrib/publish-gen-image.sh ./java/client-java-contrib/cert-manager/update.sh ./java/fluent-gen/generate.sh ./java/scripts/publish-crd-model-gen-image.sh ./java/scripts/update-client.sh ./java/.devcontainer/library-scripts/node-debian.sh ./java/.devcontainer/library-scripts/common-debian.sh ./java/examples/examples-release-17/createPod.sh ./java/examples/examples-release-18/createPod.sh ./java/examples/examples-release-16/createPod.sh
+git@github.com:mock-server/mockserver.git mockserver
+./mockserver/mockserver-netty/src/integration-tests/logging.sh ./mockserver/mockserver-netty/src/integration-tests/gradle_integration_tests.sh ./mockserver/mockserver-netty/src/main/package/dput.sh ./mockserver/mockserver-netty/src/main/package/lintian.sh ./mockserver/mockserver-netty/src/main/assembly/brew-tar/run_mockserver.sh ./mockserver/docker/local/local_docker_cadvisor_run.sh ./mockserver/docker/local/local_docker_build.sh ./mockserver/docker/local/local_docker_run.sh ./mockserver/container_integration_tests/docker_compose_without_server_port/integration_test.sh ./mockserver/container_integration_tests/helm_default_config/integration_test.sh ./mockserver/container_integration_tests/docker_compose_server_port_by_command/integration_test.sh ./mockserver/container_integration_tests/docker_compose_with_persisted_expectations/integration_test.sh ./mockserver/container_integration_tests/docker_compose_server_port_by_environment_variable_long_name/integration_test.sh ./mockserver/container_integration_tests/helm_remote_host_and_port/integration_test.sh ./mockserver/container_integration_tests/docker-compose.sh ./mockserver/container_integration_tests/helm_custom_server_port/integration_test.sh ./mockserver/container_integration_tests/docker_compose_with_server_port_from_custom_properties_file/integration_test.sh ./mockserver/container_integration_tests/docker_compose_forward_with_override/integration_test.sh ./mockserver/container_integration_tests/helm-deploy.sh ./mockserver/container_integration_tests/docker_compose_server_port_by_environment_variable_short_name/integration_test.sh ./mockserver/container_integration_tests/helm_local_docker_container/integration_test.sh ./mockserver/container_integration_tests/logging.sh ./mockserver/container_integration_tests/docker_compose_with_server_port_from_default_properties_file/integration_test.sh ./mockserver/container_integration_tests/docker_compose_with_expectation_initialiser/integration_test.sh ./mockserver/container_integration_tests/integration_tests.sh ./mockserver/container_integration_tests/docker_compose_remote_host_and_port_by_environment_variable/integration_test.sh ./mockserver/scripts/local_quick_build.sh ./mockserver/scripts/local_docker_push_tag.sh ./mockserver/scripts/local_online_build.sh ./mockserver/scripts/local_generate_web_site.sh ./mockserver/scripts/stop_MockServer.sh ./mockserver/scripts/jekyll_server.sh ./mockserver/scripts/local_build_module_by_module.sh ./mockserver/scripts/log_event_size_test_intellij_tls_load.sh ./mockserver/scripts/buildkite_deploy_snapshot.sh ./mockserver/scripts/local_list_versions.sh ./mockserver/scripts/local_deploy_snapshot.sh ./mockserver/scripts/log_event_size_test_intellij_tls.sh ./mockserver/scripts/install_ca_certificate.sh ./mockserver/scripts/local_docker_launch.sh ./mockserver/scripts/local_single_test.sh ./mockserver/scripts/local_buildkite_build.sh ./mockserver/scripts/bash_functions.sh ./mockserver/scripts/log_event_size_test_intellij.sh ./mockserver/scripts/local_javadoc_build_all_versions.sh ./mockserver/scripts/local_single_module.sh ./mockserver/scripts/buildkite_quick_build.sh ./mockserver/scripts/local_release.sh ./mockserver/scripts/download_maven_jars.sh ./mockserver/scripts/log_event_size_test_docker.sh ./mockserver/jekyll-www.mock-server.com/jekyll_server.sh
+git@github.com:meefik/linuxdeploy.git linuxdeploy
+./linuxdeploy/app/src/main/assets/bin/all/websocket.sh
+git@github.com:airbnb/epoxy.git epoxy
+
+git@github.com:hneemann/Digital.git Digital
+./Digital/src/main/svg/expicon.sh ./Digital/src/main/svg/exp.sh ./Digital/src/main/svg/exptest.sh ./Digital/distribution/linux/Digital.sh ./Digital/distribution/linux/install.sh
+git@github.com:PaperMC/Paper.git Paper
+./Paper/scripts/checkoutpr.sh ./Paper/scripts/upstreamCommit.sh ./Paper/scripts/apatch.sh ./Paper/scripts/upstreamMerge.sh
+git@github.com:airbnb/lottie-android.git lottie-android
+./lottie-android/version.sh ./lottie-android/sign.sh ./lottie-android/upload_release.sh ./lottie-android/deploy_snapshot.sh
+git@github.com:sucese/android-open-source-project-analysis.git android-open-source-project-analysis
+./android-open-source-project-analysis/art/repo.sh
+git@github.com:logisim-evolution/logisim-evolution.git logisim-evolution
+./logisim-evolution/artwork/update_assets.sh
+git@github.com:google/j2objc.git j2objc
+./j2objc/scripts/sysroot_path.sh ./j2objc/scripts/gen_coverage_report.sh ./j2objc/scripts/build_distribution.sh ./j2objc/scripts/j2objcc.sh ./j2objc/scripts/gen_xcframework.sh ./j2objc/scripts/javac_no_deprecated_warnings.sh ./j2objc/scripts/list_framework_libraries.sh ./j2objc/scripts/j2objc.sh ./j2objc/cycle_finder/src/main/bin/cycle_finder.sh ./j2objc/tree_shaker/src/main/bin/tree_shaker.sh ./j2objc/protobuf/runtime/update_metadata.sh ./j2objc/jre_emul/build_subset_frameworks.sh ./j2objc/jre_emul/gen_all_tests.sh ./j2objc/jre_emul/update_metadata.sh
+git@github.com:Sayi/poi-tl.git poi-tl
+
+git@github.com:zhpanvip/BannerViewPager.git BannerViewPager
+
+git@github.com:ben-manes/caffeine.git caffeine
+./caffeine/.github/scripts/analyze.sh
+git@github.com:danikula/AndroidVideoCache.git AndroidVideoCache
+
+git@github.com:thinkaurelius/titan.git titan
+./titan/titan-hbase-parent/titan-hbase-10/src/test/bin/hbase-config.sh ./titan/titan-hbase-parent/titan-hbase-10/src/test/bin/master-backup.sh ./titan/titan-hbase-parent/titan-hbase-10/src/test/bin/graceful_stop.sh ./titan/titan-hbase-parent/titan-hbase-10/src/test/bin/hbase-common.sh ./titan/titan-hbase-parent/titan-hbase-10/src/test/bin/regionservers.sh ./titan/titan-hbase-parent/titan-hbase-10/src/test/bin/hbase-daemons.sh ./titan/titan-hbase-parent/titan-hbase-10/src/test/bin/rolling-restart.sh ./titan/titan-hbase-parent/titan-hbase-10/src/test/bin/start-hbase.sh ./titan/titan-hbase-parent/titan-hbase-10/src/test/bin/test/process_based_cluster.sh ./titan/titan-hbase-parent/titan-hbase-10/src/test/bin/local-regionservers.sh ./titan/titan-hbase-parent/titan-hbase-10/src/test/bin/hbase-cleanup.sh ./titan/titan-hbase-parent/titan-hbase-10/src/test/bin/zookeepers.sh ./titan/titan-hbase-parent/titan-hbase-10/src/test/bin/stop-hbase.sh ./titan/titan-hbase-parent/titan-hbase-10/src/test/bin/local-master-backup.sh ./titan/titan-hbase-parent/titan-hbase-10/src/test/bin/hbase-daemon.sh ./titan/titan-hbase-parent/titan-hbase-094/src/test/bin/hbase-config.sh ./titan/titan-hbase-parent/titan-hbase-094/src/test/bin/master-backup.sh ./titan/titan-hbase-parent/titan-hbase-094/src/test/bin/graceful_stop.sh ./titan/titan-hbase-parent/titan-hbase-094/src/test/bin/regionservers.sh ./titan/titan-hbase-parent/titan-hbase-094/src/test/bin/hbase-daemons.sh ./titan/titan-hbase-parent/titan-hbase-094/src/test/bin/rolling-restart.sh ./titan/titan-hbase-parent/titan-hbase-094/src/test/bin/start-hbase.sh ./titan/titan-hbase-parent/titan-hbase-094/src/test/bin/local-regionservers.sh ./titan/titan-hbase-parent/titan-hbase-094/src/test/bin/zookeepers.sh ./titan/titan-hbase-parent/titan-hbase-094/src/test/bin/stop-hbase.sh ./titan/titan-hbase-parent/titan-hbase-094/src/test/bin/local-master-backup.sh ./titan/titan-hbase-parent/titan-hbase-094/src/test/bin/hbase-daemon.sh ./titan/titan-hbase-parent/titan-hbase-096/src/test/bin/hbase-config.sh ./titan/titan-hbase-parent/titan-hbase-096/src/test/bin/master-backup.sh ./titan/titan-hbase-parent/titan-hbase-096/src/test/bin/graceful_stop.sh ./titan/titan-hbase-parent/titan-hbase-096/src/test/bin/hbase-common.sh ./titan/titan-hbase-parent/titan-hbase-096/src/test/bin/regionservers.sh ./titan/titan-hbase-parent/titan-hbase-096/src/test/bin/hbase-daemons.sh ./titan/titan-hbase-parent/titan-hbase-096/src/test/bin/rolling-restart.sh ./titan/titan-hbase-parent/titan-hbase-096/src/test/bin/start-hbase.sh ./titan/titan-hbase-parent/titan-hbase-096/src/test/bin/test/process_based_cluster.sh ./titan/titan-hbase-parent/titan-hbase-096/src/test/bin/local-regionservers.sh ./titan/titan-hbase-parent/titan-hbase-096/src/test/bin/hbase-cleanup.sh ./titan/titan-hbase-parent/titan-hbase-096/src/test/bin/zookeepers.sh ./titan/titan-hbase-parent/titan-hbase-096/src/test/bin/stop-hbase.sh ./titan/titan-hbase-parent/titan-hbase-096/src/test/bin/local-master-backup.sh ./titan/titan-hbase-parent/titan-hbase-096/src/test/bin/hbase-daemon.sh ./titan/titan-hbase-parent/common/test/conf/hbase-env.sh ./titan/titan-hbase-parent/titan-hbase-098/src/test/bin/hbase-config.sh ./titan/titan-hbase-parent/titan-hbase-098/src/test/bin/master-backup.sh ./titan/titan-hbase-parent/titan-hbase-098/src/test/bin/graceful_stop.sh ./titan/titan-hbase-parent/titan-hbase-098/src/test/bin/hbase-common.sh ./titan/titan-hbase-parent/titan-hbase-098/src/test/bin/regionservers.sh ./titan/titan-hbase-parent/titan-hbase-098/src/test/bin/hbase-daemons.sh ./titan/titan-hbase-parent/titan-hbase-098/src/test/bin/rolling-restart.sh ./titan/titan-hbase-parent/titan-hbase-098/src/test/bin/start-hbase.sh ./titan/titan-hbase-parent/titan-hbase-098/src/test/bin/test/process_based_cluster.sh ./titan/titan-hbase-parent/titan-hbase-098/src/test/bin/local-regionservers.sh ./titan/titan-hbase-parent/titan-hbase-098/src/test/bin/hbase-cleanup.sh ./titan/titan-hbase-parent/titan-hbase-098/src/test/bin/zookeepers.sh ./titan/titan-hbase-parent/titan-hbase-098/src/test/bin/stop-hbase.sh ./titan/titan-hbase-parent/titan-hbase-098/src/test/bin/local-master-backup.sh ./titan/titan-hbase-parent/titan-hbase-098/src/test/bin/hbase-daemon.sh ./titan/titan-es/src/test/bin/elasticsearch.in.sh ./titan/titan-cassandra/config/cassandra/cassandra-env.sh ./titan/titan-cassandra/config/cassandra/cassandra.in.sh ./titan/titan-dist/src/release/release.sh ./titan/titan-dist/src/release/commit-compat-version.sh ./titan/titan-dist/src/release/gh-pages-update.sh ./titan/titan-dist/src/release/rewrite-tag.sh ./titan/titan-dist/src/assembly/static/conf/cassandra/cassandra-env.sh ./titan/titan-dist/src/assembly/static/bin/gremlin-server.sh ./titan/titan-dist/src/assembly/static/bin/elasticsearch.in.sh ./titan/titan-dist/src/assembly/static/bin/titan.sh ./titan/titan-dist/src/assembly/static/bin/checkconfig.sh ./titan/titan-dist/src/assembly/static/bin/cassandra.in.sh ./titan/titan-dist/src/assembly/static/bin/gremlin.sh ./titan/titan-dist/src/assembly/static/bin/checksocket.sh ./titan/titan-dist/src/pkg/static/pkgcommon/etc/config.sh ./titan/titan-dist/src/pkg/static/pkgcommon/payload/etc/titan/titan-env.sh ./titan/titan-dist/src/pkg/static/pkgcommon/payload/usr/share/titan/titan.in.sh ./titan/titan-dist/src/pkg/static/pkgcommon/payload/usr/bin/rexster-console.sh ./titan/titan-dist/src/pkg/static/pkgcommon/payload/usr/bin/gremlin.sh ./titan/titan-dist/src/pkg/static/pkgcommon/bin/install-payload.sh ./titan/titan-dist/src/pkg/static/pkgcommon/bin/partition-jars.sh ./titan/titan-dist/src/pkg/static/pkgcommon/bin/install-jars.sh ./titan/titan-dist/src/pkg/static/pkgcommon/bin/build-all.sh ./titan/titan-dist/src/pkg/static/pkgcommon/bin/quick-setup-for-redhat.sh ./titan/titan-dist/src/pkg/static/pkgcommon/bin/update-local-repos.sh ./titan/titan-dist/src/pkg/static/pkgcommon/bin/clean.sh ./titan/titan-dist/src/pkg/static/pkgcommon/bin/quick-setup-for-debian.sh ./titan/titan-dist/src/pkg/static/redhat/build.sh ./titan/titan-dist/src/pkg/static/debian/build.sh ./titan/titan-dist/src/pkg/static/debian/generate-changes.sh ./titan/titan-dist/src/pkg/resources/pkgcommon/etc/version.sh
+git@github.com:CalebFenton/simplify.git simplify
+./simplify/demoapp/dumpSmali.sh
+git@github.com:lipangit/JiaoZiVideoPlayer.git JiaoZiVideoPlayer
+
+git@github.com:JackyAndroid/AndroidChromium.git AndroidChromium
+
+git@github.com:HuanTanSheng/EasyPhotos.git EasyPhotos
+
+git@github.com:Activiti/Activiti.git Activiti
+
+git@github.com:JabRef/jabref.git jabref
+./jabref/src/main/resources/icons/svg2icns.sh ./jabref/scripts/after-failure.sh
+git@github.com:dianping/cat.git cat
+./cat/docker/datasources.sh ./cat/integration/cat-alert/cat-alert.sh ./cat/integration/playframework/cat-support.sh
+git@github.com:dbeaver/dbeaver.git dbeaver
+./dbeaver/product/localRepository/install-3rd-party-deps.sh ./dbeaver/product/localRepository/startRepository.sh
+git@github.com:flowable/flowable-engine.git flowable-engine
+./flowable-engine/docker/build-and-push-all-images-with-latest.sh ./flowable-engine/docker/build-and-push-all-images.sh ./flowable-engine/docker/remove-all-images.sh ./flowable-engine/docker/stop-remove-containers.sh ./flowable-engine/docker/rest-loadbalancer-postgres.sh ./flowable-engine/docker/base-image/build.sh ./flowable-engine/docker/base-image/wait-for-something.sh ./flowable-engine/docker/base-image/push.sh ./flowable-engine/docker/build-all-images.sh ./flowable-engine/docker/rest-postgres.sh ./flowable-engine/scripts/deploy-rest-tomcat.sh ./flowable-engine/scripts/start-rest.sh ./flowable-engine/scripts/run-compatibility-tests.sh ./flowable-engine/scripts/start-dev-tomcat-no-jrebel.sh ./flowable-engine/scripts/i18n/compare-i18n-files.sh ./flowable-engine/scripts/run-flowable5-tests.sh ./flowable-engine/scripts/build-all.sh ./flowable-engine/scripts/crdb/build-default-modules.sh ./flowable-engine/scripts/crdb/build-form.sh ./flowable-engine/scripts/crdb/common.sh ./flowable-engine/scripts/crdb/build-dmn.sh ./flowable-engine/scripts/crdb/build-idm.sh ./flowable-engine/scripts/crdb/build-content.sh ./flowable-engine/scripts/start-dev-tomcat.sh ./flowable-engine/docs/docusaurus/docs/assets/static/javadocs-5/javadoc.sh ./flowable-engine/docs/public-api/tools/flowable-slate/generate.sh ./flowable-engine/docs/public-api/tools/flowable-slate/generate-oas.sh ./flowable-engine/docs/userguide/src/zh_CN/single/generate-html.sh ./flowable-engine/docs/userguide/src/zh_CN/single/generate-pdf.sh ./flowable-engine/docs/userguide/src/zh_CN/dmn/generate-html.sh ./flowable-engine/docs/userguide/src/zh_CN/dmn/generate-pdf.sh ./flowable-engine/docs/userguide/src/zh_CN/bpmn/generate-html.sh ./flowable-engine/docs/userguide/src/zh_CN/bpmn/generate-pdf.sh ./flowable-engine/docs/userguide/src/zh_CN/form/generate-html.sh ./flowable-engine/docs/userguide/src/zh_CN/form/generate-pdf.sh ./flowable-engine/docs/userguide/src/zh_CN/cmmn/generate-html.sh ./flowable-engine/docs/userguide/src/zh_CN/cmmn/generate-pdf.sh ./flowable-engine/docs/userguide/scripts/generate-html.sh ./flowable-engine/docs/userguide/scripts/generate-all.sh ./flowable-engine/docs/userguide/scripts/generate-pdf.sh ./flowable-engine/docs/userguide/scripts/clean.sh ./flowable-engine/.github/actions/scripts/prepare-mssql.sh ./flowable-engine/.github/actions/scripts/install-jdk.sh ./flowable-engine/qa/ci/run-test-db-standalone.sh ./flowable-engine/modules/flowable-app-rest/src/main/jib/flowable-entrypoint.sh
+git@github.com:google/ExoPlayer.git ExoPlayer
+./ExoPlayer/extensions/ffmpeg/src/main/jni/build_ffmpeg.sh ./ExoPlayer/extensions/opus/src/main/jni/convert_android_asm.sh ./ExoPlayer/extensions/vp9/src/main/jni/generate_libvpx_android_configs.sh ./ExoPlayer/media3-migration.sh ./ExoPlayer/docs/run_locally.sh
+git@github.com:killbill/killbill.git killbill
+
+git@github.com:OpenRefine/OpenRefine.git OpenRefine
+./OpenRefine/.github/workflows/release/add_apple_keys.sh ./OpenRefine/packaging/apple_certs/codesign.sh
+git@github.com:apereo/cas.git cas
+./cas/release.sh ./cas/testcas.sh ./cas/ci/tests/influxdb/run-influxdb-server.sh ./cas/ci/tests/zookeeper/run-zookeeper-server.sh ./cas/ci/tests/mssqlserver/run-mssql-server.sh ./cas/ci/tests/saml2/run-samlsp-server.sh ./cas/ci/tests/saml2/run-saml-server.sh ./cas/ci/tests/elastic/run-elastic-apm.sh ./cas/ci/tests/memcached/run-memcached-server.sh ./cas/ci/tests/k3d/setup.sh ./cas/ci/tests/postgres/init_users.sh ./cas/ci/tests/postgres/run-postgres-server.sh ./cas/ci/tests/mongodb/run-mongodb-server.sh ./cas/ci/tests/mongodb/mongo-init.sh ./cas/ci/tests/puppeteer/scenarios/saml2-idp-login-acs-signed/ready.sh ./cas/ci/tests/puppeteer/scenarios/saml2-idp-login-acs-signed/init.sh ./cas/ci/tests/puppeteer/scenarios/redis-ticket-registry-loadbalanced/bootstrap.sh ./cas/ci/tests/puppeteer/scenarios/service-discovery-eureka/init.sh ./cas/ci/tests/puppeteer/scenarios/redis-ticket-service-registry/init.sh ./cas/ci/tests/puppeteer/scenarios/x509-optional-login/init.sh ./cas/ci/tests/puppeteer/scenarios/x509-login-ldap-attributes/create_cert.sh ./cas/ci/tests/puppeteer/scenarios/oidc-login-sonarqube/exit.sh ./cas/ci/tests/puppeteer/scenarios/oidc-login-sonarqube/init.sh ./cas/ci/tests/puppeteer/scenarios/configuration-properties-security-vault/init.sh ./cas/ci/tests/puppeteer/scenarios/saml2-idp-login-local-storage/ready.sh ./cas/ci/tests/puppeteer/scenarios/saml2-idp-login-local-storage/init.sh ./cas/ci/tests/puppeteer/scenarios/scim-login-success/init.sh ./cas/ci/tests/puppeteer/scenarios/delegated-login-saml2-postbinding-for-authnrequest/init.sh ./cas/ci/tests/puppeteer/scenarios/saml2-idp-login-with-sso-policy/ready.sh ./cas/ci/tests/puppeteer/scenarios/saml2-idp-login-with-sso-policy/init.sh ./cas/ci/tests/puppeteer/scenarios/saml2-idp-login-redirect-binding/ready.sh ./cas/ci/tests/puppeteer/scenarios/saml2-idp-login-redirect-binding/init.sh ./cas/ci/tests/puppeteer/scenarios/saml2-idp-login-idp-initiated-relaystate/ready.sh ./cas/ci/tests/puppeteer/scenarios/saml2-idp-login-idp-initiated-relaystate/init.sh ./cas/ci/tests/puppeteer/scenarios/simple-mfa-login-jpa/init.sh ./cas/ci/tests/puppeteer/scenarios/saml2-idp-login-idp-initiated-authnrequestsigned/ready.sh ./cas/ci/tests/puppeteer/scenarios/saml2-idp-login-idp-initiated-authnrequestsigned/init.sh ./cas/ci/tests/puppeteer/scenarios/adfs-login-saml2-sp/ready.sh ./cas/ci/tests/puppeteer/scenarios/adfs-login-saml2-sp/init.sh ./cas/ci/tests/puppeteer/scenarios/configuration-properties-jdbc/init.sh ./cas/ci/tests/puppeteer/scenarios/delegated-login-saml2-shibidp/init.sh ./cas/ci/tests/puppeteer/scenarios/delegated-login-saml2-sp-saml2-idp-contextclass-redirect/ready.sh ./cas/ci/tests/puppeteer/scenarios/delegated-login-saml2-sp-saml2-idp-contextclass-redirect/init.sh ./cas/ci/tests/puppeteer/scenarios/saml2-idp-login-idp-initiated-mdq/init.sh ./cas/ci/tests/puppeteer/scenarios/oidc-login-strapi/register-strapi-admin.sh ./cas/ci/tests/puppeteer/scenarios/oidc-login-strapi/exit.sh ./cas/ci/tests/puppeteer/scenarios/oidc-login-strapi/init.sh ./cas/ci/tests/puppeteer/scenarios/delegated-login-saml2-idp-discovery/init.sh ./cas/ci/tests/puppeteer/scenarios/delegated-login-saml2-slo-idp/init.sh ./cas/ci/tests/puppeteer/scenarios/configuration-properties-configserver/exit.sh ./cas/ci/tests/puppeteer/scenarios/configuration-properties-configserver/init.sh ./cas/ci/tests/puppeteer/scenarios/delegated-login-saml2-sp-oidc-idp/ready.sh ./cas/ci/tests/puppeteer/scenarios/delegated-login-saml2-sp-oidc-idp/init.sh ./cas/ci/tests/puppeteer/scenarios/delegated-login-saml2-with-sso/init.sh ./cas/ci/tests/puppeteer/scenarios/saml2-idp-login-contextclass-mfa/ready.sh ./cas/ci/tests/puppeteer/scenarios/saml2-idp-login-contextclass-mfa/init.sh ./cas/ci/tests/puppeteer/scenarios/actuator-endpoint-login-jdbc/init.sh ./cas/ci/tests/puppeteer/scenarios/delegated-login-saml2/init.sh ./cas/ci/tests/puppeteer/scenarios/saml2-idp-login-sp-metadata-directory/init.sh ./cas/ci/tests/puppeteer/scenarios/wsfed-idp-login/init.sh ./cas/ci/tests/puppeteer/scenarios/delegated-login-saml2-sp-saml2-idp-authncontext/ready.sh ./cas/ci/tests/puppeteer/scenarios/delegated-login-saml2-sp-saml2-idp-authncontext/init.sh ./cas/ci/tests/puppeteer/scenarios/amqp-ticket-registry/init.sh ./cas/ci/tests/puppeteer/scenarios/delegated-login-oidc-rp-saml2-idp/init.sh ./cas/ci/tests/puppeteer/scenarios/saml2-idp-sp-logout-post/init.sh ./cas/ci/tests/puppeteer/scenarios/pm-must-change-password-jdbc/ready.sh ./cas/ci/tests/puppeteer/scenarios/actuator-endpoint-metrics/init.sh ./cas/ci/tests/puppeteer/scenarios/delegated-login-session-timeout-saml2-idp/init.sh ./cas/ci/tests/puppeteer/scenarios/saml2-idp-login-distributed-session/ready.sh ./cas/ci/tests/puppeteer/scenarios/saml2-idp-login-distributed-session/bootstrap.sh ./cas/ci/tests/puppeteer/scenarios/saml2-idp-login-distributed-session/init.sh ./cas/ci/tests/puppeteer/scenarios/saml2-idp-login-sp-logout-redirect/init.sh ./cas/ci/tests/puppeteer/scenarios/http-session-mongodb/init.sh ./cas/ci/tests/puppeteer/scenarios/saml2-idp-with-cas-request/init.sh ./cas/ci/tests/puppeteer/scenarios/saml2-idp-login-concurrent/ready.sh ./cas/ci/tests/puppeteer/scenarios/saml2-idp-login-concurrent/init.sh ./cas/ci/tests/puppeteer/scenarios/delegated-login-saml2-sp-oidc-idp-selection-discovery/ready.sh ./cas/ci/tests/puppeteer/scenarios/saml2-idp-login-idp-initiated/ready.sh ./cas/ci/tests/puppeteer/scenarios/saml2-idp-login-idp-initiated/init.sh ./cas/ci/tests/puppeteer/scenarios/actuator-form-login-ldap/init.sh ./cas/ci/tests/puppeteer/scenarios/service-registry-replication-hazelcast/init.sh ./cas/ci/tests/puppeteer/scenarios/delegated-login-saml2-sp-saml2-idp-unsolicited/ready.sh ./cas/ci/tests/puppeteer/scenarios/delegated-login-saml2-sp-saml2-idp-unsolicited/init.sh ./cas/ci/tests/puppeteer/scenarios/actuator-form-login-ldap-userauthz/init.sh ./cas/ci/tests/puppeteer/scenarios/saml2-idp-login-consent/init.sh ./cas/ci/tests/puppeteer/scenarios/saml2-idp-login-sp-passive-authnrequest/ready.sh ./cas/ci/tests/puppeteer/scenarios/saml2-idp-login-sp-passive-authnrequest/init.sh ./cas/ci/tests/puppeteer/scenarios/passwordless-mfa-login-duo-with-ldap/init.sh ./cas/ci/tests/puppeteer/scenarios/token-login-saml2-idp-initiated/ready.sh ./cas/ci/tests/puppeteer/scenarios/token-login-saml2-idp-initiated/init.sh ./cas/ci/tests/puppeteer/scenarios/configuration-properties-mongodb/init.sh ./cas/ci/tests/puppeteer/scenarios/saml2-idp-login-sp-override-metadata/ready.sh ./cas/ci/tests/puppeteer/scenarios/password-sync-ldap/init.sh ./cas/ci/tests/puppeteer/scenarios/x509-login-ldap-cert-in-header/create_cert.sh ./cas/ci/tests/puppeteer/scenarios/x509-login-ldap-cert-in-header/init.sh ./cas/ci/tests/puppeteer/scenarios/delegated-login-saml2-slo/init.sh ./cas/ci/tests/puppeteer/scenarios/configuration-properties-zookeeper/init.sh ./cas/ci/tests/puppeteer/scenarios/delegated-login-saml2-mongodb-metadata/init.sh ./cas/ci/tests/puppeteer/scenarios/jpa-ticket-registry-postgres/init.sh ./cas/ci/tests/puppeteer/scenarios/x509-login-cert-in-header/init.sh ./cas/ci/tests/puppeteer/scenarios/saml2-idp-login-acs-unsigned/ready.sh ./cas/ci/tests/puppeteer/scenarios/saml2-idp-login-acs-unsigned/init.sh ./cas/ci/tests/puppeteer/scenarios/x509-login/init.sh ./cas/ci/tests/puppeteer/scenarios/saml2-idp-login-simplesign-binding/ready.sh ./cas/ci/tests/puppeteer/scenarios/saml2-idp-login-simplesign-binding/init.sh ./cas/ci/tests/puppeteer/scenarios/saml2-idp-login/ready.sh ./cas/ci/tests/puppeteer/scenarios/saml2-idp-login/init.sh ./cas/ci/tests/puppeteer/scenarios/saml2-idp-login-idp-initiated-incommon/init.sh ./cas/ci/tests/puppeteer/scenarios/saml2-idp-login-sp-logout-with-sso/ready.sh ./cas/ci/tests/puppeteer/scenarios/saml2-idp-login-sp-logout-with-sso/init.sh ./cas/ci/tests/puppeteer/scenarios/delegated-login-saml2-mfa-provider-selection/init.sh ./cas/ci/tests/puppeteer/scenarios/saml2-idp-login-encrypted/ready.sh ./cas/ci/tests/puppeteer/scenarios/saml2-idp-login-encrypted/init.sh ./cas/ci/tests/puppeteer/scenarios/service-registry-replication-kafka/init.sh ./cas/ci/tests/puppeteer/scenarios/saml2-idp-login-sp-logout-post/init.sh ./cas/ci/tests/puppeteer/scenarios/delegated-login-saml2-slo-idp-backchannel/init.sh ./cas/ci/tests/puppeteer/scenarios/oidc-login-jwt-rsa/init.sh ./cas/ci/tests/puppeteer/scenarios/mongodb-ticket-service-registry/init.sh ./cas/ci/tests/puppeteer/scenarios/saml2-idp-login-with-sso/ready.sh ./cas/ci/tests/puppeteer/scenarios/saml2-idp-login-with-sso/init.sh ./cas/ci/tests/puppeteer/scenarios/saml2-idp-refeds-duo-bypass/ready.sh ./cas/ci/tests/puppeteer/scenarios/saml2-idp-refeds-duo-bypass/init.sh ./cas/ci/tests/puppeteer/scenarios/saml2-idp-login-consent-with-sso/ready.sh ./cas/ci/tests/puppeteer/scenarios/saml2-idp-login-consent-with-sso/init.sh ./cas/ci/tests/puppeteer/scenarios/delegated-login-saml2-sp-saml2-idp-service-selection-strategy/ready.sh ./cas/ci/tests/puppeteer/scenarios/delegated-login-saml2-sp-saml2-idp-service-selection-strategy/init.sh ./cas/ci/tests/puppeteer/scenarios/oidc-login-jwt-hmac/init.sh ./cas/ci/tests/puppeteer/scenarios/passwordless-login-jpa/init.sh ./cas/ci/tests/puppeteer/scenarios/saml2-idp-login-mfa/ready.sh ./cas/ci/tests/puppeteer/scenarios/saml2-idp-login-mfa/init.sh ./cas/ci/tests/puppeteer/scenarios/delegated-login-saml2-sp-saml2-idp/ready.sh ./cas/ci/tests/puppeteer/scenarios/delegated-login-saml2-sp-saml2-idp/init.sh ./cas/ci/tests/puppeteer/scenarios/saml2-idp-login-sp-metadata-json/ready.sh ./cas/ci/tests/puppeteer/scenarios/saml2-idp-login-sp-metadata-json/exit.sh ./cas/ci/tests/puppeteer/scenarios/saml2-idp-login-sp-metadata-json/init.sh ./cas/ci/tests/puppeteer/scenarios/saml2-idp-sp-logout-redirect/init.sh ./cas/ci/tests/puppeteer/configure-ci.sh ./cas/ci/tests/puppeteer/run-all.sh ./cas/ci/tests/puppeteer/run.sh ./cas/ci/tests/httpbin/run-httpbin-server.sh ./cas/ci/tests/rabbitmq/run-rabbitmq-server.sh ./cas/ci/tests/consul/run-consul-server.sh ./cas/ci/tests/cosmosdb/run-cosmosdb-server.sh ./cas/ci/tests/syncope/run-syncope-server.sh ./cas/ci/tests/mysql/run-mysql-server.sh ./cas/ci/tests/mariadb/run-mariadb-server.sh ./cas/ci/tests/ldap/run-ldap-server.sh ./cas/ci/tests/ldap/reset-ad-server.sh ./cas/ci/tests/ldap/run-ad-server.sh ./cas/ci/tests/oracle/run-oracle-server.sh ./cas/ci/tests/perf/perftests-jmeter.sh ./cas/ci/tests/perf/perftests-locust.sh ./cas/ci/tests/dynamodb/run-dynamodb-server.sh ./cas/ci/tests/redis/run-redis-server.sh ./cas/ci/tests/native/build.sh ./cas/ci/tests/aws/run-aws-server.sh ./cas/ci/tests/shell/cas-shell-script.sh ./cas/ci/tests/shell/run-shell.sh ./cas/ci/tests/cas/run-cas-client.sh ./cas/ci/tests/cas/run-cas-server.sh ./cas/ci/tests/scim/run-scim-server.sh ./cas/ci/tests/webapp/validate-configserver-webapp.sh ./cas/ci/tests/webapp/validate-external-webapp.sh ./cas/ci/tests/webapp/validate-embedded-webapp.sh ./cas/ci/tests/kafka/run-kafka-server.sh ./cas/ci/tests/grouper/run-grouper-server.sh ./cas/ci/tests/cassandra/generate-keys.sh ./cas/ci/tests/cassandra/run-cassandra-server.sh ./cas/ci/tests/radius/run-radius-server.sh ./cas/ci/tests/oidc/run-keycloak-server.sh ./cas/ci/tests/gcp/run-gcp-server.sh ./cas/ci/tests/gcp/entrypoint.sh ./cas/ci/tests/mail/run-mail-server.sh ./cas/ci/docs/publish.sh ./cas/ci/metadata/publish-project-metadata.sh ./cas/ci/init-build.sh
+git@github.com:soot-oss/soot.git soot
+./soot/tutorial/guide/cleanexamples.sh ./soot/tutorial/guide/runexamples.sh ./soot/tutorial/guide/tarexamples.sh
+git@github.com:rstudio/rstudio.git rstudio
+./rstudio/docker/docker-compile.sh ./rstudio/docker/docker-compile-all.sh ./rstudio/docker/jenkins/publish-daily-binary.sh ./rstudio/docker/jenkins/notarize-release.sh ./rstudio/docker/jenkins/clean-gid.sh ./rstudio/docker/jenkins/rstudio-version.sh ./rstudio/docker/jenkins/sentry-upload.sh ./rstudio/docker/jenkins/sign-release.sh ./rstudio/docker/jenkins/publish-build.sh ./rstudio/docker/jenkins/clean-uid.sh ./rstudio/src/node/desktop/scripts/docker-run-unit-tests.sh ./rstudio/src/node/desktop/envvars.sh ./rstudio/src/cpp/ext/fmt/test/fuzzing/build.sh ./rstudio/src/cpp/server/db/make-schema.sh ./rstudio/src/cpp/report-options.sh ./rstudio/src/cpp/session/resources/grid/minify.sh ./rstudio/src/gwt/tools/i18n-helpers/create_dev_locale.sh ./rstudio/.devcontainer/generate-dev-containers.sh ./rstudio/.devcontainer/docker-env.sh ./rstudio/version/new-version.sh ./rstudio/package/osx/scripts/fix-library-paths.sh ./rstudio/package/osx/scripts/codesign-package.sh ./rstudio/vagrant/provision-license-client.sh ./rstudio/vagrant/provision-balancer-user.sh ./rstudio/vagrant/provision-license-server.sh ./rstudio/vagrant/provision-common-user.sh ./rstudio/vagrant/provision-multi-r.sh ./rstudio/vagrant/provision-nfs-client.sh ./rstudio/vagrant/provision-ldap-server.sh ./rstudio/vagrant/provision-nfs4-client.sh ./rstudio/vagrant/provision-ldap-client.sh ./rstudio/vagrant/provision-primary-load.sh ./rstudio/vagrant/provision-create-users.sh ./rstudio/vagrant/provision-editor.sh ./rstudio/vagrant/provision-balancer.sh ./rstudio/vagrant/provision-nfs.sh ./rstudio/vagrant/provision-primary-overlay.sh ./rstudio/vagrant/bootstrap-centos.sh ./rstudio/vagrant/provision-primary-user.sh ./rstudio/vagrant/provision-primary.sh ./rstudio/vagrant/install-eclim.sh ./rstudio/vagrant/start-eclim.sh ./rstudio/vagrant/provision-nfs4.sh ./rstudio/vagrant/bootstrap-debian.sh ./rstudio/dependencies/common/install-qt.sh ./rstudio/dependencies/tools/upload-pandoc.sh ./rstudio/dependencies/tools/upload-quarto.sh ./rstudio/dependencies/tools/rstudio-tools.sh
+git@github.com:raphw/byte-buddy.git byte-buddy
+./byte-buddy/.mvn/mvn-collect.sh
+git@github.com:Anuken/Mindustry.git Mindustry
+./Mindustry/server/server_template/run_server.sh ./Mindustry/ios/convert_audio.sh

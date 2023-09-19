@@ -1,4 +1,3 @@
-from bs4 import BeautifulSoup 
 import requests
 import json
 import subprocess
@@ -13,8 +12,5 @@ response = json.loads(r.text)
 urlname_lst = []
 urlname_lst = [(e['ssh_url'], e['name']) for e in response['items']]
 
-print(urlname_lst[0][0])
-print(urlname_lst[0][1])
-
-for tuple in urlname_lst:
-    subprocess.Popen(["bash", "./find_bash.sh", "%s" % (tuple[0]), "%s" % (tuple[1]), "output.txt"])
+for tupleUrl in urlname_lst:
+    subprocess.Popen(["bash", "./find_bash.sh", "%s" % (tupleUrl[0]), "%s" % (tupleUrl[1]), "output.txt"])
