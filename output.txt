@@ -1,0 +1,200 @@
+git@github.com:rom1v/sndcpy.git sndcpy
+./sndcpy/release.sh
+git@github.com:daimajia/AnimationEasingFunctions.git AnimationEasingFunctions
+
+git@github.com:googlesamples/easypermissions.git easypermissions
+
+git@github.com:NanoHttpd/nanohttpd.git nanohttpd
+
+git@github.com:didi/tinyid.git tinyid
+./tinyid/tinyid-server/build.sh
+git@github.com:bluelinelabs/LoganSquare.git LoganSquare
+git@github.com:JulienGenoud/android-percent-support-lib-sample.git android-percent-support-lib-sample
+
+git@github.com:googlearchive/android-Camera2Basic.git android-Camera2Basic
+
+
+git@github.com:emilsjolander/StickyListHeaders.git StickyListHeaders
+git@github.com:Genymobile/gnirehtet.git gnirehtet
+
+
+git@github.com:Evernote/android-job.git android-job
+
+git@github.com:nico2sh/materialish-progress.git materialish-progress
+git@github.com:vdurmont/emoji-java.git emoji-java
+git@github.com:amulyakhare/TextDrawable.git TextDrawable
+
+
+
+git@github.com:bilibili/DanmakuFlameMaster.git DanmakuFlameMaster
+
+git@github.com:Curzibn/Luban.git Luban
+git@github.com:lzyzsd/CircleProgress.git CircleProgress
+
+
+git@github.com:harjot-oberai/MaterialShadows.git MaterialShadows
+git@github.com:google/google-authenticator.git google-authenticator
+
+
+git@github.com:ZhongFuCheng3y/austin.git austin
+./austin/doc/docker/rabbitmq/rabbitmq-cluster/init-rabbitmq.sh ./austin/stream-start.sh
+git@github.com:bingoogolapple/BGABadgeView-Android.git BGABadgeView-Android
+
+git@github.com:objectbox/objectbox-java.git objectbox-java
+./objectbox-java/scripts/update-flatbuffers.sh ./objectbox-java/ci/send-to-gchat.sh ./objectbox-java/ci/test-with-asan.sh
+git@github.com:iqiyi/Andromeda.git Andromeda
+git@github.com:wequick/Small.git Small
+
+
+git@github.com:modelmapper/modelmapper.git modelmapper
+./modelmapper/bin/push-javadoc.sh
+git@github.com:square/retrofit.git retrofit
+./retrofit/deploy_website.sh
+git@github.com:Netflix/ribbon.git ribbon
+
+git@github.com:Tencent/tinker.git tinker
+./tinker/tinker-build/tinker-patch-cli/tool_maple/build_patch_dexdiff.sh ./tinker/tinker-sample-android/updateTinkerLib.sh
+git@github.com:lsjwzh/RecyclerViewPager.git RecyclerViewPager
+
+git@github.com:termux/termux-app.git termux-app
+./termux-app/termux-shared/src/main/res/raw/apt_info_script.sh ./termux-app/art/generate-feature-graphic.sh ./termux-app/art/generate-big-icon.sh ./termux-app/art/generate-launcher-images.sh ./termux-app/art/copy-to-other-apps.sh ./termux-app/art/generate-tv-banner.sh
+git@github.com:Netflix/zuul.git zuul
+git@github.com:pagehelper/Mybatis-PageHelper.git Mybatis-PageHelper
+
+
+git@github.com:coderbruis/JavaSourceCodeLearning.git JavaSourceCodeLearning
+
+git@github.com:Marswin/MarsDaemon.git MarsDaemon
+
+git@github.com:gongwen/MarqueeViewLibrary.git MarqueeViewLibrary
+
+git@github.com:mqzhangw/JIMU.git JIMU
+
+git@github.com:githubwing/ZoomHeader.git ZoomHeader
+
+git@github.com:pardom-zz/ActiveAndroid.git ActiveAndroid
+
+git@github.com:lingochamp/okdownload.git okdownload
+./okdownload/publishToMavenLocal.sh ./okdownload/deploy-snapshot.sh
+git@github.com:Netflix/eureka.git eureka
+./eureka/eureka-server/runclient.sh ./eureka/eureka-server/runservice.sh
+git@github.com:KeepSafe/TapTargetView.git TapTargetView
+
+git@github.com:awsdocs/aws-lambda-developer-guide.git aws-lambda-developer-guide
+./aws-lambda-developer-guide/sample-apps/blank-go/2-deploy.sh ./aws-lambda-developer-guide/sample-apps/blank-go/0-run-tests.sh ./aws-lambda-developer-guide/sample-apps/blank-go/3-invoke.sh ./aws-lambda-developer-guide/sample-apps/blank-go/4-cleanup.sh ./aws-lambda-developer-guide/sample-apps/blank-go/1-create-bucket.sh ./aws-lambda-developer-guide/sample-apps/blank-csharp-with-layer/2-build-layer.sh ./aws-lambda-developer-guide/sample-apps/blank-csharp-with-layer/1-create-bucket-and-role.sh ./aws-lambda-developer-guide/sample-apps/blank-csharp-with-layer/4-invoke.sh ./aws-lambda-developer-guide/sample-apps/blank-csharp-with-layer/3-deploy.sh ./aws-lambda-developer-guide/sample-apps/blank-csharp-with-layer/5-cleanup.sh ./aws-lambda-developer-guide/sample-apps/s3-java/2-build-layer.sh ./aws-lambda-developer-guide/sample-apps/s3-java/6-cleanup.sh ./aws-lambda-developer-guide/sample-apps/s3-java/4-upload.sh ./aws-lambda-developer-guide/sample-apps/s3-java/5-invoke.sh ./aws-lambda-developer-guide/sample-apps/s3-java/3-deploy.sh ./aws-lambda-developer-guide/sample-apps/s3-java/1-create-bucket.sh ./aws-lambda-developer-guide/sample-apps/blank-python/2-build-layer.sh ./aws-lambda-developer-guide/sample-apps/blank-python/0-run-tests.sh ./aws-lambda-developer-guide/sample-apps/blank-python/4-invoke.sh ./aws-lambda-developer-guide/sample-apps/blank-python/3-deploy.sh ./aws-lambda-developer-guide/sample-apps/blank-python/1-create-bucket.sh ./aws-lambda-developer-guide/sample-apps/blank-python/5-cleanup.sh ./aws-lambda-developer-guide/sample-apps/blank-java/2-build-layer.sh ./aws-lambda-developer-guide/sample-apps/blank-java/4-invoke.sh ./aws-lambda-developer-guide/sample-apps/blank-java/3-deploy.sh ./aws-lambda-developer-guide/sample-apps/blank-java/1-create-bucket.sh ./aws-lambda-developer-guide/sample-apps/blank-java/5-cleanup.sh ./aws-lambda-developer-guide/sample-apps/java-events/2-deploy.sh ./aws-lambda-developer-guide/sample-apps/java-events/3-invoke.sh ./aws-lambda-developer-guide/sample-apps/java-events/4-cleanup.sh ./aws-lambda-developer-guide/sample-apps/java-events/1-create-bucket.sh ./aws-lambda-developer-guide/sample-apps/java-events-v1sdk/2-build-layer.sh ./aws-lambda-developer-guide/sample-apps/java-events-v1sdk/4-invoke.sh ./aws-lambda-developer-guide/sample-apps/java-events-v1sdk/3-deploy.sh ./aws-lambda-developer-guide/sample-apps/java-events-v1sdk/1-create-bucket.sh ./aws-lambda-developer-guide/sample-apps/java-events-v1sdk/5-cleanup.sh ./aws-lambda-developer-guide/sample-apps/blank-csharp/2-deploy.sh ./aws-lambda-developer-guide/sample-apps/blank-csharp/3-invoke.sh ./aws-lambda-developer-guide/sample-apps/blank-csharp/4-cleanup.sh ./aws-lambda-developer-guide/sample-apps/blank-csharp/1-create-bucket.sh ./aws-lambda-developer-guide/sample-apps/ec2-spot/2-deploy.sh ./aws-lambda-developer-guide/sample-apps/ec2-spot/3-invoke.sh ./aws-lambda-developer-guide/sample-apps/ec2-spot/4-cleanup.sh ./aws-lambda-developer-guide/sample-apps/ec2-spot/1-create-bucket.sh ./aws-lambda-developer-guide/sample-apps/blank-nodejs/2-build-layer.sh ./aws-lambda-developer-guide/sample-apps/blank-nodejs/0-run-tests.sh ./aws-lambda-developer-guide/sample-apps/blank-nodejs/4-invoke.sh ./aws-lambda-developer-guide/sample-apps/blank-nodejs/3-deploy.sh ./aws-lambda-developer-guide/sample-apps/blank-nodejs/1-create-bucket.sh ./aws-lambda-developer-guide/sample-apps/blank-nodejs/5-cleanup.sh ./aws-lambda-developer-guide/sample-apps/error-processor/2-build-layer.sh ./aws-lambda-developer-guide/sample-apps/error-processor/4-invoke.sh ./aws-lambda-developer-guide/sample-apps/error-processor/3-deploy.sh ./aws-lambda-developer-guide/sample-apps/error-processor/1-create-bucket.sh ./aws-lambda-developer-guide/sample-apps/error-processor/5-cleanup.sh ./aws-lambda-developer-guide/sample-apps/rds-mysql/2-create-dbpasswordsecret.sh ./aws-lambda-developer-guide/sample-apps/rds-mysql/5-create-dbtable.sh ./aws-lambda-developer-guide/sample-apps/rds-mysql/7-cleanup.sh ./aws-lambda-developer-guide/sample-apps/rds-mysql/3-deploy-vpc.sh ./aws-lambda-developer-guide/sample-apps/rds-mysql/6-invoke.sh ./aws-lambda-developer-guide/sample-apps/rds-mysql/1-create-bucket.sh ./aws-lambda-developer-guide/sample-apps/rds-mysql/4-deploy.sh ./aws-lambda-developer-guide/sample-apps/list-manager/2-create-dbpasswordsecret.sh ./aws-lambda-developer-guide/sample-apps/list-manager/5-create-dbtable.sh ./aws-lambda-developer-guide/sample-apps/list-manager/3-deploy-vpc.sh ./aws-lambda-developer-guide/sample-apps/list-manager/8-cleanup.sh ./aws-lambda-developer-guide/sample-apps/list-manager/6-invoke.sh ./aws-lambda-developer-guide/sample-apps/list-manager/7-put-records.sh ./aws-lambda-developer-guide/sample-apps/list-manager/bin/get-stack-event.sh ./aws-lambda-developer-guide/sample-apps/list-manager/bin/get-kinesis-stream.sh ./aws-lambda-developer-guide/sample-apps/list-manager/bin/get-stack-status.sh ./aws-lambda-developer-guide/sample-apps/list-manager/1-create-bucket.sh ./aws-lambda-developer-guide/sample-apps/list-manager/4-deploy.sh ./aws-lambda-developer-guide/sample-apps/nodejs-apig/2-deploy.sh ./aws-lambda-developer-guide/sample-apps/nodejs-apig/3-invoke.sh ./aws-lambda-developer-guide/sample-apps/nodejs-apig/4-get.sh ./aws-lambda-developer-guide/sample-apps/nodejs-apig/1-create-bucket.sh ./aws-lambda-developer-guide/sample-apps/nodejs-apig/5-cleanup.sh ./aws-lambda-developer-guide/sample-apps/efs-nodejs/4-invoke.sh ./aws-lambda-developer-guide/sample-apps/efs-nodejs/2-deploy-vpc.sh ./aws-lambda-developer-guide/sample-apps/efs-nodejs/3-deploy.sh ./aws-lambda-developer-guide/sample-apps/efs-nodejs/1-create-bucket.sh ./aws-lambda-developer-guide/sample-apps/efs-nodejs/5-cleanup.sh ./aws-lambda-developer-guide/sample-apps/blank-powershell/2-deploy.sh ./aws-lambda-developer-guide/sample-apps/blank-powershell/3-invoke.sh ./aws-lambda-developer-guide/sample-apps/blank-powershell/4-cleanup.sh ./aws-lambda-developer-guide/sample-apps/blank-powershell/1-create-bucket.sh ./aws-lambda-developer-guide/sample-apps/java-basic/2-deploy.sh ./aws-lambda-developer-guide/sample-apps/java-basic/3-invoke.sh ./aws-lambda-developer-guide/sample-apps/java-basic/4-cleanup.sh ./aws-lambda-developer-guide/sample-apps/java-basic/1-create-bucket.sh ./aws-lambda-developer-guide/sample-apps/java17-examples/2-deploy.sh ./aws-lambda-developer-guide/sample-apps/java17-examples/3-invoke.sh ./aws-lambda-developer-guide/sample-apps/java17-examples/4-cleanup.sh ./aws-lambda-developer-guide/sample-apps/java17-examples/1-create-bucket.sh ./aws-lambda-developer-guide/sample-apps/blank-ruby/2-build-layer.sh ./aws-lambda-developer-guide/sample-apps/blank-ruby/0-run-tests.sh ./aws-lambda-developer-guide/sample-apps/blank-ruby/4-invoke.sh ./aws-lambda-developer-guide/sample-apps/blank-ruby/3-deploy.sh ./aws-lambda-developer-guide/sample-apps/blank-ruby/1-create-bucket.sh ./aws-lambda-developer-guide/sample-apps/blank-ruby/5-cleanup.sh
+git@github.com:iammert/ScalingLayout.git ScalingLayout
+
+git@github.com:JesusFreke/smali.git smali
+
+git@github.com:HdrHistogram/HdrHistogram.git HdrHistogram
+
+git@github.com:beemdevelopment/Aegis.git Aegis
+
+git@github.com:BruceEckel/OnJava8-Examples.git OnJava8-Examples
+
+git@github.com:wenmingvs/AndroidProcess.git AndroidProcess
+
+git@github.com:Haleydu/Cimoc.git Cimoc
+./Cimoc/.travis/build.sh
+git@github.com:rovo89/XposedInstaller.git XposedInstaller
+
+git@github.com:ZieIony/Carbon.git Carbon
+
+git@github.com:Javen205/IJPay.git IJPay
+./IJPay/packages/docs/deploy.sh ./IJPay/IJPay-Demo-JFinal/jfinal.sh ./IJPay/bin/update_version.sh ./IJPay/bin/del_versions_backup.sh ./IJPay/bin/install.sh ./IJPay/bin/check_dependency_updates.sh ./IJPay/bin/deploy.sh
+git@github.com:hansonwang99/Spring-Boot-In-Action.git Spring-Boot-In-Action
+
+git@github.com:qunarcorp/bistoury.git bistoury
+./bistoury/script/h2/h2.sh ./bistoury/script/build.sh ./bistoury/script/debug.sh ./bistoury/script/quick_start.sh ./bistoury/script/quick_start_build.sh ./bistoury/bistoury-dist/bin/bistoury-agent.sh ./bistoury/bistoury-dist/bin/base.sh ./bistoury/bistoury-dist/bin/qjtool-base.sh ./bistoury/bistoury-dist/bin/bistoury-agent-env.sh ./bistoury/bistoury-dist/bin/qjtop.sh ./bistoury/bistoury-dist/bin/qjmxcli.sh ./bistoury/bistoury-dist/bin/qjdump.sh ./bistoury/bistoury-dist/bin/qjmap.sh ./bistoury/bistoury-ui/src/bin/bistoury-ui.sh ./bistoury/bistoury-ui/src/bin/base.sh ./bistoury/bistoury-ui/src/bin/bistoury-ui-env.sh ./bistoury/bistoury-proxy/src/bin/base.sh ./bistoury/bistoury-proxy/src/bin/bistoury-proxy-env.sh ./bistoury/bistoury-proxy/src/bin/bistoury-proxy.sh
+git@github.com:CJT2325/CameraView.git CameraView
+
+git@github.com:qii/weiciyuan.git weiciyuan
+
+git@github.com:software-mansion/react-native-svg.git react-native-svg
+
+git@github.com:pinguo-zhouwei/MZBannerView.git MZBannerView
+
+git@github.com:clojure/clojure.git clojure
+./clojure/antsetup.sh
+git@github.com:FinalTeam/RxGalleryFinal.git RxGalleryFinal
+
+git@github.com:alibaba/Alink.git Alink
+./Alink/shaded_libraries/shaded_hive_deps/hive-deps-2-0/src/main/resources/download.sh ./Alink/shaded_libraries/third_party_flink_ai_extended/flink-ml-framework/sbin/pip_install_packages.sh ./Alink/shaded_libraries/third_party_flink_ai_extended/flink-ml-framework/sbin/sed_pb2_import.sh ./Alink/shaded_libraries/third_party_flink_ai_extended/flink-ml-framework/python/lib/pybind11-2.2.4/tools/check-style.sh ./Alink/shaded_libraries/third_party_flink_ai_extended/tools/build_tf2_wheel.sh ./Alink/shaded_libraries/third_party_flink_ai_extended/tools/build_tf1_wheel.sh ./Alink/shaded_libraries/third_party_flink_ai_extended/tools/create_venv_package.sh ./Alink/shaded_libraries/build_on_apple_m1.sh ./Alink/webui/tools/build-image.sh ./Alink/webui/tools/flink-with-alink-jar/build.sh ./Alink/core/src/main/python/akdl/akdl/models/tf/tft/run.sh ./Alink/core/src/main/python/python_runner/run_gateway.sh ./Alink/core/src/main/resources/call_conda_pack.sh ./Alink/python/src/main/python/dev/run_unit_tests.sh ./Alink/python/src/main/python/dev/integration_tests/run_integration_tests.sh ./Alink/python/src/main/python/dev/integration_tests/pyflink_tests/run_pyflink_tests.sh ./Alink/python/src/main/python/dev/integration_tests/examples/run_examples.sh ./Alink/python/src/main/python/dev/integration_tests/remote_tests/run_remote_tests.sh
+git@github.com:toolbox4minecraft/amidst.git amidst
+./amidst/travis-ci/scripts/zip-and-move-wrapper-for-mac.sh ./amidst/travis-ci/scripts/get-amidst-filename.sh
+git@github.com:EhsanTang/ApiManager.git ApiManager
+
+git@github.com:DingMouRen/LayoutManagerGroup.git LayoutManagerGroup
+
+git@github.com:GrowingGit/GitHub-Chinese-Top-Charts.git GitHub-Chinese-Top-Charts
+
+git@github.com:doublechaintech/scm-biz-suite.git scm-biz-suite
+./scm-biz-suite/upgrade-caf-framework.sh ./scm-biz-suite/build.sh ./scm-biz-suite/sync-react.sh ./scm-biz-suite/java-sync.sh ./scm-biz-suite/huawei-sync.sh ./scm-biz-suite/backend-sync.sh ./scm-biz-suite/bizcore/startup.sh ./scm-biz-suite/create.sh ./scm-biz-suite/ui-and-backend-sync.sh ./scm-biz-suite/sync-data.sh ./scm-biz-suite/cleaninfra.sh ./scm-biz-suite/frontend-sync.sh ./scm-biz-suite/update-code-from-model.sh ./scm-biz-suite/upgrade-ui-framework.sh ./scm-biz-suite/cleangit-bizcore.sh ./scm-biz-suite/cleangit.sh ./scm-biz-suite/deploy.sh
+git@github.com:go-lang-plugin-org/go-lang-idea-plugin.git go-lang-idea-plugin
+./go-lang-idea-plugin/cloneToWt.sh ./go-lang-idea-plugin/src/com/goide/lexer/gen_lexer.sh
+git@github.com:limboemu/limbo.git limbo
+
+git@github.com:discord-jda/JDA.git JDA
+
+git@github.com:spring-projects/spring-data-elasticsearch.git spring-data-elasticsearch
+./spring-data-elasticsearch/ci/verify.sh ./spring-data-elasticsearch/ci/clean.sh
+git@github.com:katzer/cordova-plugin-local-notifications.git cordova-plugin-local-notifications
+
+git@github.com:bm-x/PhotoView.git PhotoView
+
+git@github.com:getActivity/Toaster.git Toaster
+
+git@github.com:OpenHFT/Chronicle-Map.git Chronicle-Map
+
+git@github.com:dromara/lamp-cloud.git lamp-cloud
+./lamp-cloud/01-docs/shells/linux/run.sh ./lamp-cloud/01-docs/shells/linux/restart-authority.sh ./lamp-cloud/01-docs/dockerfile/rabbitmq/start.sh ./lamp-cloud/01-docs/dockerfile/mysql/start.sh ./lamp-cloud/01-docs/dockerfile/nginx/start.sh ./lamp-cloud/01-docs/dockerfile/mysql8/start.sh ./lamp-cloud/01-docs/dockerfile/xxFileView/restart.sh ./lamp-cloud/01-docs/dockerfile/nacos/start.sh ./lamp-cloud/01-docs/dockerfile/redis/start.sh ./lamp-cloud/01-docs/dockerfile/MinIo/run.sh ./lamp-cloud/01-third-party/seata/script/config-center/nacos/nacos-config.sh
+git@github.com:apache/rocketmq.git rocketmq
+./rocketmq/distribution/benchmark/shutdown.sh ./rocketmq/distribution/benchmark/producer.sh ./rocketmq/distribution/benchmark/runclass.sh ./rocketmq/distribution/benchmark/consumer.sh ./rocketmq/distribution/benchmark/tproducer.sh ./rocketmq/distribution/benchmark/batchproducer.sh ./rocketmq/distribution/bin/setcache.sh ./rocketmq/distribution/bin/dledger/fast-try.sh ./rocketmq/distribution/bin/export.sh ./rocketmq/distribution/bin/cleancache.sh ./rocketmq/distribution/bin/controller/fast-try-namesrv-plugin.sh ./rocketmq/distribution/bin/controller/fast-try.sh ./rocketmq/distribution/bin/controller/fast-try-independent-deployment.sh ./rocketmq/distribution/bin/cleancache.v1.sh ./rocketmq/distribution/bin/tools.sh ./rocketmq/distribution/bin/cachedog.sh ./rocketmq/distribution/bin/os.sh ./rocketmq/distribution/bin/play.sh ./rocketmq/distribution/bin/runserver.sh ./rocketmq/distribution/bin/runbroker.sh ./rocketmq/distribution/bin/startfsrv.sh
+git@github.com:jeecgboot/jeecg-boot.git jeecg-boot
+
+git@github.com:apache/dubbo.git dubbo
+./dubbo/licenseCheck.sh ./dubbo/dubbo-container/dubbo-container-api/src/main/resources/META-INF/assembly/bin/server.sh ./dubbo/dubbo-container/dubbo-container-api/src/main/resources/META-INF/assembly/bin/start.sh ./dubbo/dubbo-container/dubbo-container-api/src/main/resources/META-INF/assembly/bin/restart.sh ./dubbo/dubbo-container/dubbo-container-api/src/main/resources/META-INF/assembly/bin/stop.sh ./dubbo/dubbo-container/dubbo-container-api/src/main/resources/META-INF/assembly/bin/dump.sh
+git@github.com:google/santa-tracker-android.git santa-tracker-android
+
+git@github.com:liuyubobobo/Play-with-Algorithms.git Play-with-Algorithms
+
+git@github.com:apache/pdfbox.git pdfbox
+
+git@github.com:201206030/novel.git novel
+
+git@github.com:mybatis/mybatis-3.git mybatis-3
+
+git@github.com:apache/zookeeper.git zookeeper
+./zookeeper/zookeeper-server/src/test/resources/test-patch.sh ./zookeeper/zookeeper-server/src/test/resources/test-scripts.sh ./zookeeper/zookeeper-server/src/test/resources/test-github-pr.sh ./zookeeper/zookeeper-server/src/main/resources/lastRevision.sh ./zookeeper/zookeeper-recipes/zookeeper-recipes-queue/src/main/c/tests/zkServer.sh ./zookeeper/zookeeper-recipes/zookeeper-recipes-lock/src/main/c/tests/zkServer.sh ./zookeeper/dev/docker/run.sh ./zookeeper/zookeeper-client/zookeeper-client-c/tests/zkServer.sh ./zookeeper/zookeeper-client/zookeeper-client-c/ssl/gencerts.sh ./zookeeper/bin/zkSnapshotComparer.sh ./zookeeper/bin/zkCli.sh ./zookeeper/bin/zkServer.sh ./zookeeper/bin/zkEnv.sh ./zookeeper/bin/zkSnapShotToolkit.sh ./zookeeper/bin/zkSnapshotRecursiveSummaryToolkit.sh ./zookeeper/bin/zkCleanup.sh ./zookeeper/bin/zkTxnLogToolkit.sh ./zookeeper/bin/zkServer-initialize.sh ./zookeeper/zookeeper-contrib/zookeeper-contrib-rest/src/test/zkServer.sh ./zookeeper/zookeeper-contrib/zookeeper-contrib-rest/rest.sh ./zookeeper/zookeeper-contrib/zookeeper-contrib-loggraph/src/main/resources/loggraph.sh ./zookeeper/zookeeper-contrib/zookeeper-contrib-loggraph/src/main/resources/loggraph-dev.sh ./zookeeper/zookeeper-contrib/zookeeper-contrib-zooinspector/zooInspector.sh ./zookeeper/zookeeper-contrib/zookeeper-contrib-zooinspector/zooInspector-dev.sh ./zookeeper/zookeeper-contrib/zookeeper-contrib-zkpython/src/test/zkServer.sh ./zookeeper/zookeeper-contrib/zookeeper-contrib-zkpython/src/test/run_tests.sh ./zookeeper/tools/sonar/code-coverage.sh
+git@github.com:AntennaPod/AntennaPod.git AntennaPod
+./AntennaPod/scripts/makeRelease.sh ./AntennaPod/.github/workflows/runEmulatorTests.sh
+git@github.com:eclipse/jetty.project.git jetty.project
+./jetty.project/jetty-home/src/main/resources/bin/jetty.sh ./jetty.project/demos/demo-jetty-webapp/src/main/webapp/cgi-bin/hello.sh ./jetty.project/scripts/looptest.sh ./jetty.project/scripts/clirr-gen-master-index.sh ./jetty.project/scripts/query-git-stats.sh ./jetty.project/scripts/git-log-csv.sh ./jetty.project/scripts/release-jetty.sh
+git@github.com:Antabot/White-Jotter.git White-Jotter
+
+git@github.com:apache/groovy.git groovy
+./groovy/.muse/codenarc.sh
+git@github.com:williamfiset/DEPRECATED-data-structures.git DEPRECATED-data-structures
+
+git@github.com:pqpo/SmartCropper.git SmartCropper
+
+git@github.com:spring-projects/spring-framework.git spring-framework
+./spring-framework/update_copyright_headers.sh ./spring-framework/ci/scripts/build-pr.sh ./spring-framework/ci/scripts/common.sh ./spring-framework/ci/scripts/generate-changelog.sh ./spring-framework/ci/scripts/stage-version.sh ./spring-framework/ci/scripts/promote-version.sh ./spring-framework/ci/scripts/build-project.sh ./spring-framework/ci/scripts/check-project.sh ./spring-framework/ci/images/get-jdk-url.sh ./spring-framework/ci/images/setup.sh
+git@github.com:apache/storm.git storm
+./storm/dev-tools/rc/download-rc-directory.sh ./storm/dev-tools/rc/verify-release-file.sh ./storm/dev-tools/gitact/gitact-install.sh ./storm/dev-tools/gitact/gitact-script.sh ./storm/dev-tools/collect_license_files.sh ./storm/conf/storm-env.sh ./storm/storm-core/src/resources/compile-worker-launcher.sh ./storm/integration-test/config/common.sh ./storm/integration-test/config/install-storm.sh ./storm/integration-test/run-it.sh ./storm/storm-client/src/genthrift.sh ./storm/aws-bin/init.sh ./storm/external/storm-blobstore-migration/listLocal.sh ./storm/external/storm-blobstore-migration/migrate.sh ./storm/external/storm-blobstore-migration/listHDFS.sh
+git@github.com:gocd/gocd.git gocd
+./gocd/scripts/clean-workingdir.sh ./gocd/buildSrc/src/main/resources/gocd-docker-agent/run-docker-daemon.sh ./gocd/buildSrc/src/main/resources/gocd-docker-agent/docker-entrypoint.sh ./gocd/buildSrc/src/main/resources/gocd-docker-server/docker-entrypoint.sh
+git@github.com:apache/kylin.git kylin
+./kylin/docker/stop_cluster.sh ./kylin/docker/setup_standalone.sh ./kylin/docker/conf/spark/spark-env.sh ./kylin/docker/build_cluster_images.sh ./kylin/docker/setup_service.sh ./kylin/docker/header.sh ./kylin/docker/build_standalone_image.sh ./kylin/docker/dockerfile/cluster/resourcemanager/run_rm.sh ./kylin/docker/dockerfile/cluster/nodemanager/run_nm.sh ./kylin/docker/dockerfile/cluster/metastore-db/run_db.sh ./kylin/docker/dockerfile/cluster/historyserver/run_history.sh ./kylin/docker/dockerfile/cluster/namenode/run_nn.sh ./kylin/docker/dockerfile/cluster/hregionserver/run_hr.sh ./kylin/docker/dockerfile/cluster/base/entrypoint.sh ./kylin/docker/dockerfile/cluster/hmaster/run_hm.sh ./kylin/docker/dockerfile/cluster/client/run_cli.sh ./kylin/docker/dockerfile/cluster/client/entrypoint.sh ./kylin/docker/dockerfile/cluster/kerberos/run_krb.sh ./kylin/docker/dockerfile/cluster/datanode/run_dn.sh ./kylin/docker/dockerfile/cluster/hbase/entrypoint.sh ./kylin/docker/dockerfile/cluster/kylin/entrypoint.sh ./kylin/docker/dockerfile/cluster/hive/run_hv.sh ./kylin/docker/dockerfile/cluster/hive/conf/hive-env.sh ./kylin/docker/dockerfile/cluster/hive/entrypoint.sh ./kylin/docker/dockerfile/standalone/conf/spark/spark-env.sh ./kylin/docker/dockerfile/standalone/conf/bin/kylin.sh ./kylin/docker/dockerfile/standalone/entrypoint.sh ./kylin/docker/setup_hadoop_cluster.sh ./kylin/dev-support/test_all_against_hdp_2_4_0_0_169.sh ./kylin/dev-support/build-release/script/build_release.sh ./kylin/dev-support/build-release/script/entrypoint.sh ./kylin/dev-support/build-release/packaging.sh ./kylin/dev-support/sync_hbase_cdh_branches.sh ./kylin/dev-support/make_patch.sh ./kylin/build/script/compress.sh ./kylin/build/script/build.sh ./kylin/build/script/prepare.sh ./kylin/build/script/package.sh ./kylin/build/script/prepare-libs.sh ./kylin/build/script/download-tomcat.sh ./kylin/build/conf/setenv-tool.sh ./kylin/build/conf/setenv.sh ./kylin/build/smoke-test/smoke-test.sh ./kylin/build/bin/kylin-port-replace-util.sh ./kylin/build/bin/find-kafka-dependency.sh ./kylin/build/bin/prepare-hadoop-dependency.sh ./kylin/build/bin/util.sh ./kylin/build/bin/check-hadoop-env.sh ./kylin/build/bin/load-hive-conf.sh ./kylin/build/bin/set-java-home.sh ./kylin/build/bin/build-incremental-cube.sh ./kylin/build/bin/check-hive-usability.sh ./kylin/build/bin/check-port-availability.sh ./kylin/build/bin/find-hadoop-conf-dir.sh ./kylin/build/bin/system-cube.sh ./kylin/build/bin/find-hbase-dependency.sh ./kylin/build/bin/check-env.sh ./kylin/build/bin/check-migration-acl.sh ./kylin/build/bin/sample-streaming.sh ./kylin/build/bin/sample.sh ./kylin/build/bin/find-spark-dependency.sh ./kylin/build/bin/kylin.sh ./kylin/build/bin/download-spark.sh ./kylin/build/bin/health-check.sh ./kylin/build/bin/get-properties.sh ./kylin/build/bin/kill-process-tree.sh ./kylin/build/bin/header.sh ./kylin/build/bin/diag.sh ./kylin/build/bin/metastore.sh ./kylin/build/CI/run-ci.sh
+git@github.com:DSAppTeam/PanelSwitchHelper.git PanelSwitchHelper
+
+git@github.com:oshi/oshi.git oshi
+
+git@github.com:shopizer-ecommerce/shopizer.git shopizer
+
+git@github.com:java-native-access/jna.git jna
+./jna/create-export-package-metadata.sh ./jna/native/ld.sh ./jna/native/cc.sh ./jna/native/libffi/.ci/build.sh ./jna/native/libffi/.ci/build-in-container.sh ./jna/native/libffi/.ci/build-cross-in-container.sh ./jna/native/libffi/.ci/install.sh ./jna/native/libffi/msvcc.sh ./jna/native/libffi/autogen.sh
+git@github.com:NekoX-Dev/NekoX.git NekoX
+./NekoX/TMessagesProj/jni/third_party/breakpad/src/third_party/glog/src/demangle_unittest.sh ./NekoX/TMessagesProj/jni/third_party/breakpad/src/third_party/glog/src/signalhandler_unittest.sh ./NekoX/TMessagesProj/jni/third_party/breakpad/src/third_party/glog/src/logging_striplog_test.sh ./NekoX/TMessagesProj/jni/third_party/breakpad/src/third_party/glog/src/windows/preprocess.sh ./NekoX/TMessagesProj/jni/third_party/breakpad/src/third_party/protobuf/protobuf/src/google/protobuf/io/gzip_stream_unittest.sh ./NekoX/TMessagesProj/jni/third_party/breakpad/src/third_party/protobuf/protobuf/src/google/protobuf/compiler/zip_output_unittest.sh ./NekoX/TMessagesProj/jni/patch_boringssl.sh ./NekoX/TMessagesProj/jni/patch_ffmpeg.sh ./NekoX/TMessagesProj/jni/build_ffmpeg_clang.sh ./NekoX/TMessagesProj/jni/build_boringssl.sh ./NekoX/TMessagesProj/jni/build_libvpx_clang.sh ./NekoX/bin/libs/v2ray/build.sh ./NekoX/bin/libs/v2ray/init.sh ./NekoX/bin/libs/update.sh ./NekoX/bin/libs/shadowsocks.sh ./NekoX/bin/libs/ssr.sh ./NekoX/bin/libs/v2ray.sh ./NekoX/bin/libs/native.sh ./NekoX/bin/app/release.sh ./NekoX/bin/app/build.sh ./NekoX/bin/app/debug.sh ./NekoX/bin/app/upload.sh ./NekoX/bin/app/play.sh ./NekoX/bin/app/alaha.sh ./NekoX/bin/app/init.sh ./NekoX/bin/fdroid/build.sh ./NekoX/bin/fdroid/prebuild.sh ./NekoX/bin/init/libs/boringssl.sh ./NekoX/bin/init/libs/ffmpeg.sh ./NekoX/bin/init/libs/libvpx.sh ./NekoX/bin/init/env.sh ./NekoX/bin/init/libs.sh ./NekoX/bin/init/action/boringssl.sh ./NekoX/bin/init/action/shadowsocks.sh
+git@github.com:claritylab/lucida.git lucida
+./lucida/lucida/calendar/CalendarClient/compile-Calendar-client.sh ./lucida/lucida/calendar/CalendarClient/start-Calendar-client.sh ./lucida/lucida/speechrecognition/kaldi_gstreamer_asr/install_kaldi_tts.sh ./lucida/lucida/speechrecognition/kaldi_gstreamer_asr/start.sh ./lucida/lucida/speechrecognition/kaldi_gstreamer_asr/install_kaldi.sh ./lucida/lucida/speechrecognition/kaldi_gstreamer_asr/test/models/download-fisher-nnet2.sh ./lucida/lucida/speechrecognition/kaldi_gstreamer_asr/test/models/download-tedlium-nnet2.sh ./lucida/lucida/speechrecognition/kaldi_gstreamer_asr/simple_start.sh ./lucida/lucida/speechrecognition/kaldi_gstreamer_asr/stop.sh ./lucida/lucida/speechrecognition/kaldi_gstreamer_asr/install_idlak.sh ./lucida/lucida/botframework-interface/start_interface.sh ./lucida/lucida/botframework-interface/deps/install_phantomjs.sh ./lucida/lucida/botframework-interface/deps/install_node.sh ./lucida/lucida/botframework-interface/deps/install_ngrok.sh ./lucida/lucida/asyncthrift/fake/auto.sh ./lucida/lucida/commandcenter/clear_db.sh ./lucida/lucida/commandcenter/gen_certs.sh ./lucida/lucida/commandcenter/apache/install_apache.sh ./lucida/lucida/questionanswering/OpenEphyra/src/info/ephyra/nlp/compile-snowball.sh ./lucida/lucida/questionanswering/OpenEphyra/scripts/OpenEphyraCorpus.sh ./lucida/lucida/questionanswering/OpenEphyra/scripts/EphyraTREC8To11.sh ./lucida/lucida/questionanswering/OpenEphyra/scripts/EphyraTREC13To16.sh ./lucida/lucida/questionanswering/OpenEphyra/scripts/OpenEphyra.sh ./lucida/lucida/questionanswering/OpenEphyra/start_test.sh ./lucida/lucida/questionanswering/OpenEphyra/start_server.sh ./lucida/lucida/djinntonic/imc/make_imc.sh ./lucida/lucida/djinntonic/tools/install-protobuf.sh ./lucida/lucida/djinntonic/tools/install-caffe.sh ./lucida/tools/install_thrift.sh ./lucida/tools/install_python.sh ./lucida/tools/start_all_tmux.sh ./lucida/tools/install_java.sh ./lucida/tools/install_opencv.sh ./lucida/tools/install_fbthrift.sh ./lucida/tools/deploy/cluster_up_linux.sh ./lucida/tools/deploy/cluster_up_osx.sh ./lucida/tools/deploy/start_services.sh ./lucida/tools/install_mongodb.sh ./lucida/tools/apt_deps.sh ./lucida/tools/clean.sh ./lucida/tools/download_wiki_index.sh
