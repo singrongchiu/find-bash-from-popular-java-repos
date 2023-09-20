@@ -6,25 +6,32 @@
 
 git clone ${1}
 
-# x=`find ./${2} -name "*.sh"`
-x=`find ./${2} -name "*.sh"`
-echo "find .sh files:" 
-echo $x
-
+# find sha values
 cd ${2}
 sha=`git log --pretty=format:'%h' -n 1`
 sha_long=`git log --pretty=format:'%H' -n 1`
 cd ..
 
-shfiles=$(echo $x | tr " " "\n")
+# find .sh files in repo
+x=`find ./${2} -name "*.sh"`
+echo "find .sh files:" 
+echo $x
+# shfiles=$(echo $x | tr " " "\n")
+shfiles=(${x// / })
 
-full_title_length=${#2}+2
+full_title_length=$((${#2}+3))
+echo ${full_title_length}
 
-for addr in $shfiles
-do
-    filepath="${addr:${full_title_length}:}"
-    echo "${3},${sha},${4},`${3}+${sha_long}+${filepath}`" >> ${5}
-done
+if (( ${#shfiles[@]} )); then
+    for addr in ${shfiles[@]}
+    do
+        filepathvar=`echo "${addr:${full_title_length}}"`
+        echo "${3},${sha},${4},${3}/blob/${sha_long}/${filepathvar}" >> ${5}
+    done
+else
+    echo "${3},${sha},${4}," >> ${5}
+    echo "this repo has no .sh files!!"
+fi
 
 rm -rf ${2}
 
