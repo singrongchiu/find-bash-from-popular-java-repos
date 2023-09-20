@@ -2,7 +2,7 @@ import requests
 import json
 import subprocess
 
-q = "q=language:java&sort=stars&order=desc&per_page=100&page=1"
+q = "q=language:java&sort=stars&order=desc&per_page=100&page=1&stars%3A>6000"
 url = "https://api.github.com/search/repositories?" + q
 
 print(url)
